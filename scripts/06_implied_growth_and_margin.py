@@ -184,12 +184,14 @@ fine_g = np.array([D.implied_growth(m)[0] for m in fine_m])
 ax.plot(fine_m, fine_g, color="#0b0b0b", lw=2.5)
 ax.set_xlim(m_first - m_step / 2, m_last + m_step / 2)
 ax.set_ylim(g_first - g_step / 2, g_last + g_step / 2)
+# The three reference points are named in a legend below the chart, so no label covers a cell's value.
 for (x, y, label, mk) in [(start_m, start_g, f"FY{D.BASE_FY} actual", "s"),
-                          (normal_m, normal_g, f"Normal Nike\n(FY{y0}-{y1})", "D"),
-                          (head_m, head_g, "Headline pair", "o")]:
-    ax.plot(x, y, marker=mk, ms=10, mfc="white", mec="#0b0b0b", mew=2)
-    ax.annotate(label, (x, y), xytext=(8, -18) if label.startswith("FY") else (8, 8), textcoords="offset points",
-                fontsize=9, fontweight="bold", bbox=dict(boxstyle="round,pad=0.2", fc="white", ec="none", alpha=0.85))
+                          (normal_m, normal_g, f"Normal Nike, FY{y0}-{y1}", "D"),
+                          (head_m, head_g, "Headline pair the price implies", "o")]:
+    ax.plot(x, y, marker=mk, ms=10, mfc="white", mec="#0b0b0b", mew=2, ls="none",
+            label=f"{label}: {y:.1%} growth, {x:.1%} margin")
+ax.plot([], [], color="#0b0b0b", lw=2.5, label=f"Every combination worth the ${PRICE:.2f} price")
+ax.legend(loc="upper center", bbox_to_anchor=(0.5, -0.09), ncol=2, frameon=False, fontsize=9)
 ax.set_xticks(margins, [f"{m:.0%}" for m in margins])
 ax.set_yticks(growths, [f"{g:.0%}" for g in growths])
 ax.set_xlabel(f"Operating margin reached by FY2031 (straight line from the FY2027 guidance margin, {D.fy2027_margin():.1%})")

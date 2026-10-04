@@ -62,7 +62,7 @@ Traps:
   office leases. Including leases would cut FY2026 ROIC to roughly 18% (my estimate: $3.0B NOPAT ÷ $16.9B).
   Compare Nike's ROIC to itself over time, or to peers using the same definition, rather than to a textbook number.
 
-## What happened (for the memo)
+## What happened
 
 Facts are from the 10-K numbers in this project. Lines marked *context* are widely reported background that
 I did not check against the 10-K text here.

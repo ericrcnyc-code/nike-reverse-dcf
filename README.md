@@ -1,17 +1,38 @@
-# What is the market pricing into Nike? A reverse DCF of NKE
+# What is the market pricing into Nike?
 
-A discounted cash flow (DCF) model usually goes forward: forecast a company's cash flows, discount them, and get a
-value per share. A **reverse DCF** runs the other way. It starts from today's share price and solves for the revenue
-growth and profit margins that would make that price fair. This project does that for Nike (NYSE: NKE), using Nike's
-own SEC filings as the source of truth, and asks one question:
+**A reverse DCF of Nike (NYSE: NKE), built from Nike's own SEC filings.**
+
+![Python 3.11+](https://img.shields.io/badge/python-3.11%2B-3776AB)
+![Data: SEC EDGAR](https://img.shields.io/badge/data-SEC%20EDGAR-1f4e79)
+![Audit: 256 checks passed](https://img.shields.io/badge/data%20audit-256%20checks%20passed-2e8540)
+![License: MIT](https://img.shields.io/badge/license-MIT-lightgrey)
+
+A discounted cash flow (DCF) model usually runs forward: forecast a company's cash flows, discount them, and get a value
+per share. A **reverse DCF** runs backwards. It starts from today's share price and solves for the revenue growth and
+profit margin that would make that price fair. This project asks one question:
 
 > **At $33.87 a share (close on 2 October 2026), what future is the market assuming for Nike?**
 
-Everything is in Python scripts that anyone can re-run. Every assumption sits in one file
-([`scripts/assumptions.py`](scripts/assumptions.py)) with its source and date, and every intermediate step is saved as
-a CSV in [`output/`](output/) so it can be checked by hand or in Excel.
+**Short answer:** after the weak year Nike itself guides to for FY2027, the price assumes revenue growth of about
+**2.9% a year** in FY2028-31 and an operating margin back to about **10.3% by FY2031**. That is roughly halfway back to
+the Nike of FY2017-24, which grew 5.9% a year at a 12.5% margin.
 
-*This is a personal learning project, not investment advice.*
+*A personal learning project in financial modeling. Not investment advice.*
+
+![What growth does Nike's share price imply?](charts/04_implied_growth_by_margin.png)
+
+## Contents
+
+- [Headline findings](#headline-findings)
+- [Method, step by step](#method-step-by-step)
+- [Data sources](#data-sources)
+- [How to run it](#how-to-run-it)
+- [Repository layout](#repository-layout)
+- [Limits](#limits)
+
+**Full results:** [`output/00_nike_valuation_summary.md`](output/00_nike_valuation_summary.md) ·
+**Excel model:** [`output/05_nike_dcf_model.xlsx`](output/05_nike_dcf_model.xlsx) ·
+**Every assumption:** [`scripts/assumptions.py`](scripts/assumptions.py)
 
 ## Headline findings
 
@@ -19,19 +40,31 @@ All figures are nominal. Valuation date 2026-10-02; data as of 2026-10-04.
 
 | Question | Answer |
 |---|---|
-| What does the $33.87 price assume? | After a weak FY2027 (Nike's own guidance: revenue down about 8%, adjusted operating margin about 5.6%), revenue growth of about **2.9% a year** in FY2028-31 and an operating margin of about **10.3% by FY2031** |
-| How does that compare with Nike's past? | It is about 48% of the way back from FY2026 (0.2% growth, 8.2% margin) to Nike's FY2017-24 average (5.9% growth, 12.5% margin) |
-| What is Nike worth in the base case? | **$42.17 a share** (25% above the price), assuming the margin recovers to 12.5% by FY2031 |
+| What does the $33.87 price assume? | After FY2027 at Nike's guidance (revenue down about 8%, adjusted operating margin about 5.6%), revenue growth of about **2.9% a year** in FY2028-31 and an operating margin of about **10.3% by FY2031** |
+| How does that compare with Nike's past? | About 48% of the way back from FY2026 (0.2% growth, 8.2% margin) to Nike's FY2017-24 average (5.9% growth, 12.5% margin) |
+| What is Nike worth in the base case? | **$42.17 a share**, 25% above the price, if the margin recovers to 12.5% by FY2031 |
 | What would a full recovery be worth? | About $45 a share |
 | Value with every harsher input at once | $33.58, about 1% below the price |
 | How does Nike trade against peers? | 11.0x EV/EBITDA and 16.3x P/E, against a peer median of 8.8x and 14.5x |
 
-The price mostly pins down the **margin**, not growth: each point of FY2031 operating margin is worth about $3-4 a
-share, while growth matters much less. Reading of the result (interpretation, not a model output): the market prices a
-partial recovery, to roughly a 10% margin, which is below Nike's FY2017-24 record and weaker than its recovery after
-its last brand-driven slump in FY1998-99.
+**What drives the answer.** The price mostly pins down the *margin*, not growth. Each point of FY2031 operating margin
+is worth about $3-4 a share, while moving growth from 0% to 6% at a 12.5% margin only lifts the value from $37 to $45.
+Whatever growth you believe, the market is pricing a margin of roughly 10%.
 
-The full write-up of every result is in [`output/00_nike_valuation_summary.md`](output/00_nike_valuation_summary.md).
+**How to read it** (interpretation, not a model output): the market prices a partial recovery. A 10% margin is below
+Nike's FY2017-24 record and weaker than its recovery after its last brand-driven slump in FY1998-99, but well above
+the 5.6% Nike guides to for FY2027.
+
+<table>
+<tr>
+<td width="50%"><img src="charts/06_value_heatmap_growth_x_margin.png" alt="Value per share by growth and margin"></td>
+<td width="50%"><img src="charts/06b_margin_and_growth_vs_peers.png" alt="Nike vs peers: margin and growth"></td>
+</tr>
+<tr>
+<td><b>Value per share for every growth and margin pair.</b> Red cells are worth less than the price, blue more; the black line is every pair worth exactly $33.87.</td>
+<td><b>Nike against peers.</b> The price-implied 10.3% margin sits between the big European brands (adidas, Puma) and the focused growers (Lululemon, Deckers).</td>
+</tr>
+</table>
 
 ## Method, step by step
 
@@ -41,8 +74,8 @@ The full write-up of every result is in [`output/00_nike_valuation_summary.md`](
 2. **Describe what happened** (script 02). Revenue, margins, free cash flow and return on capital over ten years,
    plus segment and channel trends and charts. Nike reports no operating income line, so operating income here is
    gross profit minus selling and administrative expense.
-3. **Estimate the discount rate** (script 03). Beta from 60 monthly returns against the S&P 500, the 10-year Treasury
-   yield, and Damodaran's implied equity risk premium give a cost of equity of 9.74% and a WACC of 9.07%.
+3. **Estimate the discount rate** (scripts 03, 04). Beta from 60 monthly returns against the S&P 500, the 10-year
+   Treasury yield, and Damodaran's implied equity risk premium give a cost of equity of 9.74% and a WACC of 9.07%.
 4. **Build one DCF** ([`scripts/dcf_model.py`](scripts/dcf_model.py)). Five forecast years (FY2027-31). FY2027 is fixed
    at Nike's guidance; after that the margin moves in a straight line to its target. Taxes, depreciation, capital
    spending and working capital are percentages of revenue taken from Nike's FY2017-26 averages. The terminal value
@@ -55,11 +88,16 @@ The full write-up of every result is in [`output/00_nike_valuation_summary.md`](
 7. **Put it in context** (scripts 06a, 06b, 08). Nike's own history back to FY1993, competitors' growth and margins,
    and valuation multiples against adidas, Lululemon, Deckers, On Holding and Under Armour.
 8. **Stress-test it** (script 07). Change one input at a time (risk premium, terminal growth, tax, working capital,
-   leases) and then all the harsher ones together.
+   leases), then all the harsher ones together.
 9. **Audit the data** (script 09). 256 checks: 220 Nike figures found next to their labels in the 10-K text, 13
    against the 10-Q, 11 market inputs against the raw downloads, and 8 checks that scripts agree with each other.
    No failures.
-10. **Scenarios** (script 10). Bear, base and bull values built from Nike's FY2027 guidance.
+10. **Scenarios** (script 10). Bear ($23.90), cautious base ($35.53) and bull ($44.65) values built from Nike's FY2027
+    guidance.
+
+Three rules run through the whole project: official SEC filings are the source of truth for financials; every modeling
+assumption lives in one file with its source and date; and every intermediate calculation is saved as a CSV so it can
+be checked by hand. How the model changed while it was built is in the [changelog](CHANGELOG.md).
 
 ## Data sources
 
@@ -128,9 +166,8 @@ python3 scripts/09_data_audit.py
 python3 scripts/10_memo_scenarios.py
 ```
 
-This rebuilds everything in `output/` and `charts/` from the saved raw data. On 2026-10-04 a fresh copy of the
-repository rebuilt every output CSV unchanged and the audit passed all 256 checks (the PNG and Excel files differ only
-in their embedded timestamps).
+This rebuilds everything in `output/` and `charts/` from the saved raw data. A fresh clone rebuilds every output CSV
+unchanged and the audit passes all 256 checks (the PNG and Excel files differ only in their embedded timestamps).
 
 Scripts **01, 01b and 03 download fresh data** (SEC filings and today's prices). They are not needed to reproduce the
 results above. Run them only when you want to update the analysis, and then copy the new market figures that script 03
@@ -155,15 +192,23 @@ prints into `scripts/assumptions.py` by hand, with the date, before running the 
 | `assumptions.py` | Every modeling assumption, with source and date |
 | `dcf_model.py` | The one DCF that the other scripts use |
 
+Each script opens with a plain-language explanation of what it does and why.
+
 ## Repository layout
 
-| Folder | Holds |
-|---|---|
-| `scripts/` | Python code, numbered in run order. Each script opens with a plain-language explanation. |
-| `data/raw/` | Files exactly as downloaded. Never edited. |
-| `data/processed/` | Clean tables the scripts build from the raw files. |
-| `output/` | Results and every intermediate calculation (CSV), the Excel model, and write-ups (`.md`). |
-| `charts/` | Charts (PNG), each made by a script. |
+```
+nike-reverse-dcf/
+├── scripts/          Python code, numbered in run order; assumptions.py and dcf_model.py
+├── data/
+│   ├── raw/          files exactly as downloaded, never edited
+│   └── processed/    clean tables the scripts build from the raw files
+├── output/           results, every intermediate calculation (CSV), Excel models, write-ups
+├── charts/           charts (PNG), each made by a script
+├── CHANGELOG.md      how the model and its results changed while it was built
+└── requirements.txt  Python libraries
+```
+
+The write-ups in `output/` explain each step in plain language; [`output/README.md`](output/README.md) lists every file.
 
 ## Limits
 
@@ -178,3 +223,8 @@ prints into `scripts/assumptions.py` by hand, with the date, before running the 
   is under 1%.
 - Nike's figures before FY2008 were not restated for later acquisitions and sales, so growth in those years includes
   some acquisition effect.
+
+## License
+
+Code is released under the [MIT License](LICENSE). Filings and market data belong to their publishers (the SEC
+filings are public records).

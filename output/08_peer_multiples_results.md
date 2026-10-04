@@ -46,10 +46,5 @@ Looking forward makes Nike look more expensive, not less. Nike's FY2027 guidance
 would value Nike at about $18. The peer P/Es are on trailing profit, so this is a rough comparison, but it shows the
 price already assumes earnings recover from FY2027.
 
-## Discrepancies in the DCF found along the way (both fixed)
-
-The DCF's balance sheet already used Nike's Q1 FY2027 10-Q (filed 2026-10-02), but its forecast did not use the quarter's
-results. At Eric's request (2026-10-04) FY2027 growth first became -1.1% (Q1's -4.3% plus the rest of the year flat), moving
-the base case from $47.81 to $46.88. Nike's earnings release the day before then guided full-year revenue down
-"high-single digits", so FY2027 is now fixed at that guidance (revenue -8%, adjusted margin 5.55%) and the base case is
-$42.17.
+How the base case moved to $42.17 as the Q1 FY2027 results and guidance were built in is recorded in the
+[changelog](../CHANGELOG.md).

@@ -127,29 +127,14 @@ sentence is interpretation.
   nominal growth is roughly flat in real terms. Comparing 1990s growth with today's also mixes different
   inflation rates.
 - **SEC access.** www.sec.gov rejects requests whose User-Agent has no e-mail address. Script 06a defaults to the
-  placeholder `you@example.com` (the one the earlier scripts suggest), not Eric's e-mail. Set `SEC_USER_AGENT` to use
-  your own.
-
-## What was made consistent (2026-10-04)
-
-| Was | Now |
-|---|---|
-| Three copies of the DCF: script 04 (10 years, reinvestment = new revenue / 3.2), the Excel model, and script 06 | One model, `scripts/dcf_model.py`. Scripts 04 and 06 import it, Excel shows the same formulas, and script 06 checks that they match to the cent |
-| Excel terminal value = FY2031 cash flow x 1.025, which repeated FY2031's growth-driven working-capital spending forever | FY2032 is built as a normal 2.5%-growth year (script 04 already did this). **Excel base case moved from $46.24 to $46.84** (then $47.81 after the ERP update) |
-| FY2027 at -1.1% growth (Q1 actual + rest of year flat) on the straight line from FY2026's 8.2% margin | FY2027 fixed at Nike's guidance (-8%, 5.55% margin) in every run; reverse DCFs solve for FY2028-31. **Base case moved from $46.88 to $42.17** |
-| FY2026 working capital computed only inside the Excel script | Built once in script 02 (`output/02_historical_metrics.csv`). Excel checks it matches |
-| "Normal Nike" growth: 5.9% in assumptions.py (a compound rate) vs 6.1% in script 06 (a simple average); margin 12.5% (simple) vs 12.6% (revenue-weighted) | One definition everywhere: compound annual growth FY2016→FY2024 = 5.9%, simple average margin FY2017-24 = 12.5% |
-| Peer growth as simple averages | Compound annual growth, the same as Nike's |
-| Nike margin before one-offs vs peers' reported margins | Peers are compared with Nike's "as reported" margin (identical for 2015-25). The long history shows both |
-| Retired settings `FORECAST_YEARS` (10) and `SALES_TO_CAPITAL` (3.2) in assumptions.py | Removed; all DCFs use `EXCEL_FORECAST_YEARS` (5) |
+  placeholder `you@example.com`; set `SEC_USER_AGENT` to your own name and e-mail before re-downloading.
 
 ## Files
 
-- Scripts, run in this order: `02_historical_metrics.py` → `03_market_inputs.py` → `04_reverse_dcf.py` →
-  `05_excel_dcf_model.py` → `06a_nike_long_history.py` → `06_implied_growth_and_margin.py` → `06b_competitors.py`
-  (then 07, 08, 09 and `10_memo_scenarios.py`, which holds the guidance-to-margin steps).
+- Scripts: `06a_nike_long_history.py` → `06_implied_growth_and_margin.py` → `06b_competitors.py` (full run order in the
+  [README](../README.md#how-to-run-it)). The guidance-to-margin steps are in `10_memo_scenarios.py`.
   The shared model is `dcf_model.py`, and every setting is in `assumptions.py`.
 - Raw: `data/raw/10k_history/` (6 old Nike 10-Ks), `data/raw/competitors/` (SEC company facts for Lululemon, Deckers
-  and On, plus the adidas and Puma figures).
+  and On; the adidas and Puma pages are downloaded by `scripts/00_get_non_sec_files.py`).
 - Output: `output/04_*`, `output/05_*`, `output/06_*.csv`, `output/06a_*.csv`, `output/06b_*.csv`.
 - Charts: `charts/04_implied_growth_by_margin.png`, `charts/06_value_heatmap_growth_x_margin.png`, `charts/06b_margin_and_growth_vs_peers.png`.

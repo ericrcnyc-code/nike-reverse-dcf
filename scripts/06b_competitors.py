@@ -3,8 +3,8 @@
 
 WHAT THIS DOES, IN PLAIN LANGUAGE
 ---------------------------------
-Script 06 finds that Nike's share price implies about 1.8% revenue growth a year
-and a 9.4% operating margin by FY2031. Is that a lot or a little? Two yardsticks:
+Script 06 finds the revenue growth (FY2028-31) and operating margin (by FY2031)
+that Nike's share price implies. Is that a lot or a little? Two yardsticks:
 Nike's own past (script 06a) and what other sportswear companies earn. This
 script builds the second one.
 
@@ -217,15 +217,18 @@ imp_m = head["implied operating margin by FY2031"] * 100
 order = ["Nike", "adidas", "Puma", "Lululemon", "Deckers", "On Holding"]
 colors = ["#0b0b0b", "#2a78d6", "#eb6834", "#1baf7a", "#eda100", "#e87ba4"]
 fig, axes = plt.subplots(2, 1, figsize=(11, 9), sharex=True)
-for metric, ax, implied_value, label in [("operating_margin_pct", axes[0], imp_m, "Operating margin (%)"),
-                                         ("revenue_growth_pct", axes[1], imp_g, "Revenue growth (%, own currency)")]:
+for metric, ax, implied_value, label, note in [
+        ("operating_margin_pct", axes[0], imp_m, "Operating margin (%)", "margin by FY2031"),
+        ("revenue_growth_pct", axes[1], imp_g, "Revenue growth (%, own currency)", "growth a year,\nFY2028-31")]:
     for c, col in zip(order, colors):
         g = shown[shown["company"] == c]
         ax.plot(g["year"], g[metric], color=col, lw=3 if c == "Nike" else 2, marker="o", ms=5 if c != "Nike" else 7,
                 label=c + (" (non-SEC)" if c in ("adidas", "Puma") else ""), zorder=3 if c == "Nike" else 2)
-    ax.axhline(implied_value, color="#0b0b0b", ls="--", lw=1.5)
-    ax.text(FIRST_YEAR + 0.6, implied_value, f"Nike's price implies {implied_value:.1f}% (growth FY2028-31 / margin FY2031)", va="center",
-            fontsize=9, fontweight="bold", bbox=dict(boxstyle="round,pad=0.2", fc="white", ec="#0b0b0b"), zorder=5)
+    ax.hlines(implied_value, FIRST_YEAR - 0.4, LAST_YEAR + 0.2, color="#0b0b0b", ls="--", lw=1.5)
+    # The label sits to the right of the last year, so it never covers a company's line.
+    ax.text(LAST_YEAR + 0.25, implied_value, f"Nike's price\nimplies {implied_value:.1f}%\n{note}", va="center",
+            fontsize=9, fontweight="bold")
+    ax.set_xlim(FIRST_YEAR - 0.4, LAST_YEAR + 1.6)
     ax.axhline(0, color="#999999", lw=0.8)
     ax.set_ylabel(label)
     ax.grid(axis="y", color="#e5e5e5")

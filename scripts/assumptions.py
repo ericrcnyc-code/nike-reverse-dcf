@@ -178,7 +178,7 @@ FY2027_OPERATING_MARGIN = {
     "source": ("derived from Nike's FY2027 guidance (GUIDANCE_FY2027, midpoints): adjusted EPS 1.25 x 1,484.2m diluted shares "
                "/ (1 - 25% tax) - 103m non-operating income = USD 2,371m operating income, / (46,398m x (1 - 8%)) revenue "
                "= 5.55%. Script 10 repeats the steps and checks this value (output/10_guidance_margin.csv). Set 2026-10-04 "
-               "at Eric's request to build the guidance into the base case; before that FY2027 sat on the straight line "
+               "to build the guidance into the base case; before that FY2027 sat on the straight line "
                "from FY2026's 8.2% (9.1%)"),
     "date_set": "2026-10-04",
 }
@@ -213,7 +213,7 @@ SHARE_OF_FY2027_REMAINING = {
 EXCEL_FORECAST_YEARS = {
     "value": 5,
     "unit": "years (FY2027-FY2031); used by every DCF in the project",
-    "source": "Eric's request (5-year forecast); margin reaches its target in year 5, and FY2032 is built as a steady 2.5%-growth year for the terminal value",
+    "source": "judgment (5-year forecast); margin reaches its target in year 5, and FY2032 is built as a steady 2.5%-growth year for the terminal value",
     "date_set": "2026-10-04",
 }
 
