@@ -1,0 +1,7 @@
+slump_years,pre_slump_year,pre_slump_margin_pct,trough_year,trough_margin_pct,worst_revenue_growth_pct,year_of_new_revenue_high,years_from_slump_start_to_new_revenue_high,year_margin_back_within_1pt,years_from_trough_to_margin_back
+FY1994,1993,15.82,1994,13.57,-3.59,1995.0,1.0,1996.0,2.0
+FY1998-FY1999,1997,15.02,1998,9.04,-8.13,2002.0,4.0,2006.0,8.0
+FY2010,2009,12.8,2010,13.01,-0.84,2011.0,1.0,2011.0,1.0
+FY2020,2019,12.2,2020,8.33,-4.38,2021.0,1.0,2021.0,1.0
+FY2023,2022,14.29,2023,11.55,9.65,2024.0,1.0,,
+FY2025,2024,12.29,2025,7.99,-9.84,,,,

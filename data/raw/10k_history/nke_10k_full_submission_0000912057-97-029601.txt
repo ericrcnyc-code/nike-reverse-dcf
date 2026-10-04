@@ -1,0 +1,2989 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ CAnrJVOu0sa9+pPQU0YMoKoz6x7lsiHD4xhixGcS4a0I4Lyoki4odPFplBBhvGk1
+ D5fuAZQRqETHjPt7bX6Cfg==
+
+<SEC-DOCUMENT>0000912057-97-029601.txt : 19970912
+<SEC-HEADER>0000912057-97-029601.hdr.sgml : 19970912
+ACCESSION NUMBER:		0000912057-97-029601
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		4
+CONFORMED PERIOD OF REPORT:	19970531
+FILED AS OF DATE:		19970829
+SROS:			NYSE
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			NIKE INC
+		CENTRAL INDEX KEY:			0000320187
+		STANDARD INDUSTRIAL CLASSIFICATION:	RUBBER & PLASTICS FOOTWEAR [3021]
+		IRS NUMBER:				930584541
+		STATE OF INCORPORATION:			OR
+		FISCAL YEAR END:			0531
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		
+		SEC FILE NUMBER:	001-10635
+		FILM NUMBER:		97673644
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE BOWERMAN DR
+		CITY:			BEAVERTON
+		STATE:			OR
+		ZIP:			97005-6453
+		BUSINESS PHONE:		5036416453
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<DESCRIPTION>FORM 10-K
+<TEXT>
+
+<PAGE>
+- --------------------------------------------------------------------------------
+- --------------------------------------------------------------------------------
+ 
+                       SECURITIES AND EXCHANGE COMMISSION
+ 
+                             WASHINGTON, D.C. 20549
+ 
+                            ------------------------
+ 
+                                   FORM 10-K
+ 
+(MARK ONE)
+ 
+<TABLE>
+<C>        <S>
+   /X/     ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+           [FEE REQUIRED] FOR THE FISCAL YEAR ENDED MAY 31, 1997
+ 
+                                                                    OR
+ 
+   / /     TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF
+           1934 [NO FEE REQUIRED] FOR THE TRANSITION PERIOD FROM                     TO
+                               .
+ 
+                                                 COMMISSION FILE NO. 1-10635
+</TABLE>
+ 
+                            ------------------------
+ 
+                                   NIKE, INC.
+ 
+             (Exact name of Registrant as specified in its charter)
+ 
+              OREGON                                93-0584541
+  (State or other jurisdiction of        (IRS Employer Identification No.)
+          incorporation)
+ 
+                               ONE BOWERMAN DRIVE
+                          BEAVERTON, OREGON 97005-6453
+              (Address of principal executive offices) (Zip Code)
+ 
+       REGISTRANT'S TELEPHONE NUMBER, INCLUDING AREA CODE: (503) 671-6453
+ 
+                            ------------------------
+ 
+          SECURITIES REGISTERED PURSUANT TO SECTION 12(b) OF THE ACT:
+ 
+                                              (NAME OF EACH EXCHANGE
+       (TITLE OF EACH CLASS)                   ON WHICH REGISTERED)
+- -----------------------------------     -----------------------------------
+       Class B Common Stock                   New York Stock Exchange
+                                              Pacific Stock Exchange
+ 
+          SECURITIES REGISTERED PURSUANT TO SECTION 12(g) OF THE ACT:
+                                      NONE
+ 
+    Indicate by check mark whether the Registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+Registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days.  Yes /X/  No / /
+ 
+    As of July 25, 1997, the aggregate market value of the Registrant's Class A
+Common Stock held by nonaffiliates of the Registrant was $258,578,092 and the
+aggregate market value of the Registrant's Class B Common Stock held by
+nonaffiliates of the Registrant was $11,501,675,310.
+ 
+    As of July 25, 1997, the number of shares of the Registrant's Class A Common
+Stock outstanding was 101,507,153 and the number of shares of the Registrant's
+Class B Common Stock outstanding was 188,378,576
+ 
+                      DOCUMENTS INCORPORATED BY REFERENCE:
+ 
+    Parts of Registrant's Proxy Statement dated August 13, 1997 for the annual
+meeting of shareholders to be held on September 22, 1997 are incorporated by
+reference into Part III of this Report.
+ 
+    Indicate by check mark if disclosure of delinquent filers pursuant to Item
+405 of Regulation S-K (229.405 of this chapter) is not contained herein, and
+will not be contained to the best of Registrant's knowledge, in definitive proxy
+or information statements incorporated by reference in Part III of this Form
+10-K or any amendment to this Form 10-K.  / /
+ 
+- --------------------------------------------------------------------------------
+- --------------------------------------------------------------------------------
+<PAGE>
+                                   NIKE, INC.
+                                 ANNUAL REPORT
+                                  ON FORM 10-K
+                               TABLE OF CONTENTS
+ 
+<TABLE>
+<CAPTION>
+                                                                                                                 PAGE
+                                                                                                               ---------
+<S>                <C>                                                                                         <C>
+PART I
+  ITEM 1.          BUSINESS
+                   General...................................................................................          1
+                   Products..................................................................................          1
+                   Sales and Marketing.......................................................................          2
+                   United States Market......................................................................          2
+                   International Markets.....................................................................          3
+                   Significant Customers.....................................................................          3
+                   Orders....................................................................................          3
+                   Product Research and Development..........................................................          3
+                   Manufacturing.............................................................................          3
+                   Trade Legislation.........................................................................          4
+                   Competition...............................................................................          5
+                   Trademarks and Patents....................................................................          5
+                   Employees.................................................................................          6
+                   Executive Officers of the Registrant......................................................          6
+  ITEM 2.          PROPERTIES................................................................................          8
+  ITEM 3.          LEGAL PROCEEDINGS.........................................................................          8
+  ITEM 4.          SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS.......................................          8
+PART II
+  ITEM 5.          MARKET FOR REGISTRANT'S COMMON EQUITY AND RELATED STOCKHOLDER MATTERS.....................          9
+  ITEM 6.          SELECTED FINANCIAL DATA...................................................................         10
+  ITEM 7.          MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS.....         11
+  ITEM 8.          FINANCIAL STATEMENTS AND SUPPLEMENTAL DATA................................................         17
+  ITEM 9.          CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE......         36
+PART III           (Except for the information set forth under "Executive Officers of the Registrant" in Item
+                     I above, Part III is incorporated by reference from the Proxy Statement for the NIKE,
+                     Inc. 1997 annual meeting of shareholders.)..............................................         36
+PART IV
+  ITEM 14.         EXHIBITS, FINANCIAL STATEMENT SCHEDULES AND REPORTS ON FORM 8-K...........................         36
+SIGNATURES         ..........................................................................................        S-1
+</TABLE>
+ 
+                                       i
+<PAGE>
+                                     PART I
+ 
+ITEM 1.  BUSINESS
+ 
+GENERAL
+ 
+    NIKE, Inc. was incorporated in 1968 under the laws of the state of Oregon.
+As used herein, the terms "NIKE" and the "Company" refer to NIKE, Inc. and its
+predecessors, subsidiaries and affiliates, unless the context indicates
+otherwise.
+ 
+    The Company's principal business activity involves the design, development
+and worldwide marketing of high quality footwear, apparel, equipment, and
+accessory products. NIKE is the largest seller of athletic footwear and athletic
+apparel in the world. The Company sells its products to approximately 19,700
+retail accounts in the United States and through a mix of independent
+distributors, licensees and subsidiaries in approximately 110 countries around
+the world. Virtually all of the Company's products are manufactured by
+independent contractors. Most footwear products are produced outside the United
+States, while apparel products are produced both in the United States and
+abroad.
+ 
+PRODUCTS
+ 
+    NIKE's athletic footwear products are designed primarily for specific
+athletic use, although a large percentage of the products are worn for casual or
+leisure purposes. The Company places considerable emphasis on high quality
+construction and innovative design. Basketball, cross-training, running, women's
+and children's shoes are currently the top-selling product categories and are
+expected to continue to lead in product sales in the near future. However, the
+Company also markets shoes designed for outdoor activities, tennis, golf,
+soccer, baseball, football, bicycling, volleyball, wrestling, cheerleading,
+aquatic activities and other athletic and recreational uses.
+ 
+    The Company sells active sports apparel covering each of the above
+categories, as well as athletic bags and accessory items. NIKE apparel and
+accessories are designed to complement the Company's athletic footwear products,
+feature the same trademarks and are sold through the same marketing and
+distribution channels. The Company often markets footwear, apparel and
+accessories in "collections" of similar design or for specific purposes.
+ 
+    The Company sells a line of performance equipment under the NIKE brand name,
+including sport balls, timepieces, eyewear, skates, and other equipment designed
+for sports activities.
+ 
+    The Company also sells a line of dress and casual footwear and accessories
+for men, women and children under the brand name Cole
+Haan-Registered Trademark-through its wholly-owned subsidiary, Cole Haan
+Holdings Incorporated. The Company markets a line of headwear with licensed team
+logos under the brand name "Sports Specialties", through its wholly-owned
+subsidiary, Sports Specialties Corporation. The Company also sells small amounts
+of various plastic products to other manufacturers through its wholly-owned
+subsidiary, Tetra Plastics, Inc.
+ 
+    In 1995 the Company acquired Bauer Inc., formerly Canstar Sports Inc., the
+world's largest hockey equipment manufacturer. Bauer manufactures and
+distributes ice skates, skate blades, in-line roller skates, protective gear,
+hockey sticks, and hockey jerseys and accessories under the
+Bauer-Registered Trademark-brand name. Bauer also offers a full selection of
+products for street, roller and field hockey.
+ 
+                                       1
+<PAGE>
+SALES AND MARKETING
+ 
+    The table below sets forth certain information regarding the Company's
+United States and inter-national (non-U.S.) revenues for the last three fiscal
+years.
+ 
+<TABLE>
+<CAPTION>
+YEAR ENDED MAY 31,             1997          %CHG          1996          %CHG          1995          %CHG
+- -------------------------  ------------  ------------  ------------  ------------  ------------  ------------
+<S>                        <C>           <C>           <C>           <C>           <C>           <C>
+United States Footwear...  $  3,770,600           36%  $  2,772,500           20%  $  2,309,400           24%
+United States Apparel....     1,431,000           70        842,500           99        423,900           25
+  Total United States....     5,201,600           44      3,615,000           32      2,733,300           24
+Non-U.S. Footwear........     2,391,000           42      1,682,300           35      1,244,300           25
+Non-U.S. Apparel.........     1,089,800           67        651,400           38        472,700           32
+  Total Non-U.S..........     3,480,800           49      2,333,700           36      1,717,000           27
+Other Brands.............       504,100           (3 )      521,900           68        310,600           38
+ 
+  Total NIKE.............  $  9,186,500           42%  $  6,470,600           36%  $  4,760,900           26%
+</TABLE>
+ 
+    Financial information about United States and non-U.S. operations appears in
+Note 15 of the consolidated financial statements on page 35.
+ 
+    The Company experiences moderate fluctuations in aggregate sales volume
+during the year. However, the mix of product sales may vary considerably from
+time to time as a result of changes in seasonal and geographic demand for
+particular types of footwear and apparel.
+ 
+    Because NIKE is a consumer products company, the relative popularity of
+various sports and fitness activities and changing design trends affect the
+demand for the Company's products and, consequently, the types of products the
+Company offers. This is a continuing risk. The Company must therefore respond to
+trends and shifts in consumer preferences by adjusting the mix of existing
+product offerings, developing new products, styles and categories, and
+influencing sports and fitness preferences through aggressive marketing.
+ 
+UNITED STATES MARKET
+ 
+    During fiscal 1997, sales to the Company's approximately 19,700 retail
+accounts in the United States accounted for approximately 60 percent of total
+revenues. The domestic retail account base includes a mix of department stores,
+footwear stores, sporting goods stores, skating, tennis and golf shops, and
+other retail accounts. During fiscal year 1997, NIKE's three largest customers
+accounted for approximately 29 percent of sales in the United States.
+ 
+    NIKE makes substantial use of its innovative "futures" ordering program,
+which allows retailers to order five to six months in advance of delivery with
+the guarantee that 90 percent of their orders will be delivered within a set
+time period at a fixed price. In fiscal year 1997, 93 percent of the Company's
+domestic footwear shipments (excluding Cole Haan-Registered Trademark- and
+Bauer-Registered Trademark-) were made under the futures program, compared to 88
+percent in fiscal 1996 and 88 percent in fiscal 1995. In fiscal 1997, 86% of the
+Company's domestic apparel shipments were made under the futures program.
+ 
+    The Company utilizes 18 NIKE sales offices for the solicitation of sales in
+the United States. The Company also utilizes 15 independent sales
+representatives for the sale of specialty products, such as golf, cycling, water
+sports and outdoor wear. In addition, the Company operates 86 wholly-owned
+retail outlets, 39 of which carry primarily B-grade and close-out merchandise,
+31 of which are Cole Haan-Registered Trademark- stores, 9 of which are
+high-profile NIKETOWN stores designed to showcase the Company's products, and 5
+of which are employee-only stores.
+ 
+    The Company's domestic distribution centers for footwear are located in
+Beaverton, Oregon, Wilsonville, Oregon, Memphis, Tennessee, and Greenland, New
+Hampshire. Apparel products are shipped from the Memphis distribution center and
+from Greenville, North Carolina. Cole Haan footwear and
+ 
+                                       2
+<PAGE>
+Bauer Inc. products are distributed primarily from Greenland, New Hampshire, and
+Sports Specialties headwear is shipped from Irvine, California.
+ 
+INTERNATIONAL MARKETS
+ 
+    The Company currently markets its products in approximately 110 countries
+outside of the United States through independent distributors, licensees,
+subsidiaries and branch offices. NIKE operates 26 distribution centers in
+Europe, Asia, Canada, Latin America, and Australia, and also distributes through
+independent distributors and licensees. The Company estimates that its products
+are sold through approximately 31,000 retail accounts outside the United States.
+Non-U.S. sales accounted for 38 percent of total revenues in fiscal 1997,
+compared to 36 percent in fiscal 1996 and 37 percent in fiscal 1995. In many
+countries, including Japan and those in Europe, the Company has a futures
+ordering program for retailers similar to the United States futures program
+described above. The Company is developing the program in other countries.
+Outside of the United States, NIKE's three largest customers accounted for
+approximately 5 percent of non-U.S. sales.
+ 
+    International branch offices and subsidiaries of NIKE are located in
+Argentina, Australia, Austria, Belgium, Brazil, Canada, Chile, Costa Rica,
+Denmark, Finland, France, Germany, Hong Kong, Indonesia, India, Italy, Japan,
+Korea, Malaysia, Mexico, New Zealand, The Netherlands, Norway, Peoples Republic
+of China, The Philippines, Singapore, Spain, Sweden, Switzerland, Taiwan,
+Thailand, the United Kingdom, and Vietnam. The Company operates 19 wholly-owned
+retail outlets outside the United States.
+ 
+SIGNIFICANT CUSTOMERS
+ 
+    Foot Locker, a chain of retail stores specializing in athletic footwear and
+apparel, accounted for approximately 12 percent of global net sales of NIKE
+brand products during fiscal 1997. No other customer accounted for 10 percent or
+more of net sales during fiscal 1997.
+ 
+ORDERS
+ 
+    As of May 31, 1997, the Company's worldwide futures orders for athletic
+footwear and apparel totaled $4.9 billion, compared to $3.9 billion as of May
+31, 1996. Such orders are scheduled for delivery from June through November of
+1997. Based upon historical data, the Company expects that approximately 95
+percent of these orders will be filled in that time period, although the orders
+may be cancelable.
+ 
+PRODUCT RESEARCH AND DEVELOPMENT
+ 
+    The Company believes that its research and development efforts are a key
+factor in its past and future success. Technical innovation in the design of
+footwear, apparel, and athletic equipment receive continued emphasis as NIKE
+strives to produce products that reduce or eliminate injury, aid athletic
+performance and maximize comfort.
+ 
+    In addition to its own staff of specialists in the areas of biomechanics,
+exercise physiology, engineering, industrial design and related fields, NIKE
+also utilizes research committees and advisory boards made up of athletes,
+coaches, trainers, equipment managers, orthopedists, podiatrists and other
+experts who consult with the Company and review designs, materials and concepts
+for product improvement. Employee athletes wear-test and evaluate products
+during the design and development process.
+ 
+    In fiscal 1997, NIKE spent approximately $73.2 million on product research,
+development and evaluation, compared to $46.8 million in 1996, and $28.8 million
+in 1995.
+ 
+MANUFACTURING
+ 
+    In fiscal 1997, approximately 51 percent of the Company's total apparel
+production for sale to the United States market was manufactured in the United
+States by independent contract manufacturers, most
+ 
+                                       3
+<PAGE>
+of which are located in the southern states. The remainder was manufactured by
+independent contractors in Asia and South America, most of which are located in
+Bangladesh, Hong Kong, Indonesia, Malaysia, The Philippines, Singapore, Sri
+Lanka, Taiwan, and Thailand. Substantially all of NIKE's apparel production for
+sale to the international market was manufactured outside the U.S.
+ 
+    Virtually all of the Company's footwear (exclusive of Cole
+Haan-Registered Trademark-) is produced outside of the United States. In fiscal
+1997, contract suppliers in Indonesia, the People's Republic of China, Thailand,
+Vietnam, South Korea, and Taiwan accounted for approximately 37 percent, 37
+percent, 10 percent, 8 percent, 5 percent, and 3 percent, respectively, of total
+NIKE brand footwear production. The Company also has manufacturing agreements
+with independent factories in Argentina, Brazil, Italy, Mexico and the
+Philippines. The largest single supplier accounted for approximately 7 percent
+of total 1997 footwear production.
+ 
+    The principal materials used in the Company's footwear products are natural
+and synthetic rubber, vinyl and plastic compounds, foam cushioning materials,
+nylon, leather, canvas, and a polyurethane film used to make
+AIR-SOLE-Registered Trademark- cushioning components. The principal materials
+used in the Company's apparel products are natural and synthetic fabrics and
+threads, plastic and metal hardware, and specialized performance fabrics
+designed to repel rain, retain heat, or efficiently transport body moisture.
+NIKE and its contractors and suppliers buy raw materials in bulk. Most raw
+materials are available in the countries where manufacturing takes place. NIKE
+has thus far experienced little difficulty in satisfying its raw material
+requirements. Tetra Plastics, Inc., a wholly-owned subsidiary of NIKE, is the
+Company's sole supplier of the material from which the
+AIR-SOLE-Registered Trademark- cushioning components used in footwear are made.
+ 
+    The Company's international operations are subject to the usual risks of
+doing business abroad, such as possible revaluation of currencies, export
+duties, quotas, restrictions on the transfer of funds and, in certain parts of
+the world, political instability. See "Trade Legislation" below. NIKE has not,
+to date, been materially affected by any such risk, but cannot predict the
+likelihood of such developments occurring. The Company believes that it has the
+ability to develop, over a period of time, adequate alternative sources of
+supply for the products obtained from its present suppliers outside of the
+United States. If events prevented the Company from acquiring products from its
+suppliers in a particular country, the Company's footwear operations could be
+temporarily disrupted and the Company could experience an adverse financial
+impact. However, the Company believes that it could eliminate any such
+disruption within a period of no more than 12 months, and that any adverse
+impact would, therefore, be of a short-term nature. The Company believes that
+its principal competitors are subject to similar risks.
+ 
+    All Company products manufactured overseas and imported into the United
+States are subject to duties collected by the United States Customs Service.
+Customs information submitted by the Company is routinely subject to review by
+the Customs Service. The Company is unable to predict whether additional United
+States customs duties, quotas or other restrictions may be imposed on the
+importation of its products in the future. The enactment of any such duties,
+quotas or restrictions could result in increases in the cost of such products
+generally and might adversely affect the sales or profitability of the Company
+and the imported footwear and apparel industry as a whole.
+ 
+    Since 1972, Nissho Iwai American Corporation ("NIAC"), a subsidiary of
+Nissho Iwai Corporation, a large Japanese trading company, has performed
+significant financing and export-import services for the Company. The Company
+purchases through NIAC substantially all of the athletic footwear and apparel it
+acquires from overseas suppliers. The Company's agreements with NIAC extend
+through 2000, and the Company expects that the relationship will be continued
+beyond that date.
+ 
+TRADE LEGISLATION
+ 
+    In June 1997, President Clinton extended to June 1998 "most favored nation"
+(MFN) non-discriminatory trading status to the People's Republic of China
+(China) and Congress supported the President's decision. Under U.S. law, MFN
+status for China is extended annually. The United States has extended MFN status
+to China each year since 1980. China is a material source of footwear production
+for the
+ 
+                                       4
+<PAGE>
+Company. A revocation of MFN status would result in a substantial increase in
+tariff rates on goods imported from China, and, therefore could adversely affect
+the Company's operations. While the United States continues to have foreign
+policy as well as human rights concerns with China, the Clinton Administration
+and the Congress have opposed using China's MFN status as a means of addressing
+these concerns. However, even if NIKE's Chinese sources were affected by a
+change in China's MFN status, the Company believes that the impact of such
+change would not have a long term, material adverse impact on the Company's
+business.
+ 
+    Certain countries within the European Community have for some time
+maintained quotas restricting the importation of footwear manufactured in China.
+With respect to such quotas, see the discussion in Item 7 below.
+ 
+    In 1994, the 125 member nations of the General Agreement on Tariffs and
+Trade (GATT), including the United States, signed a new pact to govern world
+trade. The new agreement, which was approved by Congress in 1995 and became
+effective January 1, 1995 for most countries, should provide better
+international market access opportunities for U.S. goods and services. The
+agreement, among other things, significantly cuts global tariffs on many
+products, reduces or eliminates numerous non-tariff measures (such as quotas and
+discriminatory product standards), establishes stronger rules on the imposition
+of duties relating to the anti-dumping and subsidies codes, provides greater
+protection for intellectual property rights, and creates a strengthened dispute
+settlement procedure. NIKE believes that the new agreement, once fully
+implemented by all countries, will reduce many of the obstacles to international
+trade and benefit the Company.
+ 
+    In 1995, President Clinton officially restored diplomatic relations between
+the United States and Vietnam. The President's action is a step toward
+restoration of full trade relations including the United States granting
+non-discriminatory MFN trading status to Vietnam which would result in lower
+tariffs between the two countries. The Company is currently sourcing footwear
+and apparel products from factories in Vietnam. MFN trading status for Vietnam
+could expand production and marketing opportunities for NIKE in Vietnam.
+ 
+COMPETITION
+ 
+    The athletic footwear, apparel and equipment industry is keenly competitive
+in the United States and on a worldwide basis. NIKE competes internationally
+with an increasing number of specialized athletic shoe companies, apparel
+companies, sports equipment companies, and large companies having diversified
+lines of athletic shoes, apparel and equipment including Reebok, Adidas and
+others. The intense competition and the rapid changes in technology and consumer
+preferences in the athletic footwear, apparel and equipment markets constitute
+significant risk factors in the Company's operations.
+ 
+    NIKE is the largest seller of athletic footwear and athletic apparel in the
+world. Performance and reliability of shoes, apparel, and equipment, new product
+development, price, product identity through marketing and promotion, and
+customer support and service are important aspects of competition in the
+athletic footwear, apparel and equipment industry. The Company believes that it
+is competitive in all of these areas.
+ 
+TRADEMARKS AND PATENTS
+ 
+    NIKE utilizes trademarks on nearly all of its products and believes that
+having distinctive marks that are readily identifiable is an important factor in
+creating a market for its goods, in identifying the Company and in
+distinguishing its goods from the goods of others. The Company considers its
+NIKE-Registered Trademark- and Swoosh-Registered Trademark- design trademarks to
+be among its most valuable assets and has registered these trademarks in over
+100 countries. In addition, the Company owns other trademarks which it utilizes
+in marketing its products. NIKE continues to vigorously protect its trademarks
+against infringement.
+ 
+                                       5
+<PAGE>
+    The Company has an exclusive, worldwide license to make and sell footwear
+using patented "Air" technology. The process utilizes pressurized gas
+encapsulated in polyurethane. Some of the early NIKE Air patents expire in 1997,
+enabling competitors to use certain types of NIKE Air technology. Subsequent
+NIKE Air patents will not expire for several years. The Company also has a
+number of patents covering components and features used in various athletic and
+leisure shoes. Management believes that NIKE's success depends upon skills in
+design, research and development, production and marketing rather than upon its
+patent position. However, it has followed a policy of filing applications for
+United States and foreign patents on inventions, designs and improvements that
+it deems valuable.
+ 
+EMPLOYEES
+ 
+    The Company had approximately 21,800 employees at May 31, 1997. Management
+considers its relationship with its employees to be excellent. With the
+exception of Bauer Inc., the Company's employees are not represented by a union.
+Of Bauer's North American employees, approximately 50 percent or fewer than
+1,400, are covered by four union collective bargaining agreements with four
+separate bargaining units, and all of Bauer's approximately 190 employees in
+Italy are covered by three collective bargaining agreements. The collective
+bargaining agreements expire on various dates in 1997 through 1999. There has
+never been a material interruption of operations due to labor disagreements.
+ 
+EXECUTIVE OFFICERS OF THE REGISTRANT
+ 
+    The executive officers of the Company as of July 31, 1997 are as follows:
+ 
+    Philip H. Knight, Chief Executive Officer--Mr. Knight, 59, a director since
+1968, is Chief Executive Officer and Chairman of the Board of Directors of NIKE.
+Mr. Knight is a co-founder of the Company and, except for the period from June
+1983 through September 1984, served as its President from 1968 to 1990. Prior to
+1968, Mr. Knight was a certified public accountant with Price Waterhouse LLP and
+Coopers & Lybrand and was an Assistant Professor of Business Administration at
+Portland State University.
+ 
+    Jeffrey M. Cava, Vice President, Global Human Resources--Mr. Cava, 45, has
+been employed by the Company since 1996, with primary responsibility for NIKE's
+Global Human Resources. Previous to NIKE, Mr. Cava held the position of Vice
+President, Human Resources, Walt Disney Consumer Products, Burbank, California.
+ 
+    Thomas E. Clarke, President and Chief Operating Officer--Dr.Clarke, 46, a
+director since 1994, joined the Company in 1980. Dr. Clarke has held various
+positions with the Company, primarily in research, design, development and
+marketing. He was appointed divisional vice president in charge of marketing in
+1987. He was elected Vice President in 1989 and appointed General Manager in
+1990. Dr. Clarke holds a Doctorate degree in biomechanics.
+ 
+    Gary M. DeStefano, Vice President, Sales--Mr. DeStefano, 40, has been
+employed by the Company since 1982, with primary responsibilities in sales and
+customer service. Mr. DeStefano was appointed Director of Domestic Sales in
+1990, divisional Vice President in charge of domestic sales in 1992, and Vice
+President of Sales in June 1996.
+ 
+    Elizabeth G. Dolan, Vice President, Corporate Communications and
+Marketing--Ms. Dolan, 40, has been employed by the Company since 1988, when she
+joined the Company as Director of Public Relations. Ms. Dolan was appointed Vice
+President of Corporate Communications in 1990 and was elected Vice President of
+Marketing in 1994. Prior to joining the Company, Ms. Dolan was Director of
+Public Relations at Cartier, Inc. in New York.
+ 
+    Robert S. Falcone, Vice President and Chief Financial Officer--Mr. Falcone,
+50, has been employed by the Company since 1990. Mr. Falcone joined the Company
+as Director of Acquisitions. From May, 1991 through November, 1991, he also
+served as interim Director of Human Resources, and he was elected Vice
+ 
+                                       6
+<PAGE>
+President and Chief Financial Officer in 1992. Prior to joining the Company, Mr.
+Falcone worked for 21 years as a certified public accountant for Price
+Waterhouse LLP.
+ 
+    Stephen D. Gomez, Vice President, Apparel--Mr. Gomez, 42 has been employed
+by the Company since 1981, with primary responsibilities in apparel. He was
+appointed General Manager of European Apparel in 1987, and Apparel Marketing
+Director in 1989. Mr. Gomez was appointed divisional Vice President in charge of
+Apparel in 1992, and was elected Vice President of Apparel in June 1996.
+ 
+    Clare L. Hamill, Vice President, Footwear--Ms Hamill, 42, has been employed
+by the Company since 1981. She began in NIKE's Sports Lab and has held
+management position in both footwear and apparel. She directed Footwear and
+Apparel Product Management in Europe from 1989 to 1992. She became Vice
+President and General Manager of Footwear in 1993.
+ 
+    Timothy J. Joyce, Vice President, Global Sales--Mr. Joyce, 41, has been
+employed by the Company since 1980, with primary responsibilities in Sales. He
+was appointed Regional Sales Manager in 1987, Director of USA Footwear Sales in
+1990 and Director of European Sales in 1994. Mr. Joyce was appointed Divisional
+Vice President in charge of Global Sales in 1997.
+ 
+    Mark G. Parker, Vice President and General Manager, Consumer Product
+Marketing--Mr. Parker, 40, has been employed by the Company since 1979 with
+primary responsibilities in product research, design and development. Mr. Parker
+was appointed divisional Vice President in charge of development in 1987,
+elected Vice President in 1989, and appointed General Manager in 1993.
+ 
+    Lindsay D. Stewart, Vice President Legal and Corporate Affairs and Assistant
+Secretary-- Mr. Stewart, 50, joined the Company as Assistant Corporate Counsel
+in 1981. Mr. Stewart became Corporate Counsel in 1983. He was elected Vice
+President and General Counsel in 1991. Prior to joining the Company, Mr. Stewart
+was in private practice and an attorney for Georgia-Pacific Corporation.
+ 
+    David B. Taylor, Vice President--Mr. Taylor, 42, has been employed by the
+Company since 1977, with primary responsibilities in production. Mr. Taylor was
+appointed divisional Vice President in charge of production in 1988, and was
+elected Vice President in 1989.
+ 
+                                       7
+<PAGE>
+ITEM 2.  PROPERTIES
+ 
+    Following is a summary of principal properties owned or leased by the
+Company. The Company's leases expire at various dates through the year 2017.
+ 
+<TABLE>
+<S>                                            <C>
+U.S. ADMINISTRATIVE OFFICES:
+  Beaverton, Oregon (16 locations)--one owned
+    and 15 leased
+  Wilsonville, Oregon--owned
+  Memphis, Tennessee (2 locations)--1 owned
+    and 1 leased
+  Yarmouth, Maine--owned
+  Charlotte, North Carolina--leased
+  Irvine, California--leased
+  St. Charles, Missouri--leased
+ 
+INTERNATIONAL ADMINISTRATIVE OFFICES:
+  Canada (7 locations)--leased
+  Europe (14 locations)--leased
+  Asia and Australia (11 locations)--leased
+  Latin America (6 locations)--leased
+ 
+SALES OFFICES AND SHOWROOMS:
+  United States (26 locations)--2 owned and
+    24 leased
+  Toronto, Ontario (2 locations)--leased
+  Europe (29 locations)--1 owned and 28
+    leased
+  Asia and Australia (11 locations)--leased
+  Latin America (6 locations)--leased
+  Africa (2 locations)--leased
+ 
+DISTRIBUTION FACILITIES:
+  Greenland, New Hampshire (2 locations)-- 1
+    owned and 1 leased
+  Wilsonville, Oregon (2 locations)--1 owned
+    and 1 leased
+  Memphis, Tennessee (2 locations)--1 owned
+    and 1 leased
+  Irvine, California--leased
+  Canada (3 locations)--leased
+  Latin America (2 locations)--leased
+  Europe (6 locations)--3 owned and 3 leased
+  Asia and Australia (15 locations)--leased
+ 
+INTERNATIONAL PRODUCTION OFFICES:
+  Asia (9 locations)--leased
+  South America (3 locations)--leased
+  Florence, Italy--leased
+ 
+MANUFACTURING FACILITIES:
+  United States (11 locations)--leased
+  Canada (5 locations)--3 owned and 2 leased
+  Europe (3 locations)--owned
+ 
+RETAIL OUTLETS:
+  United States (86 locations)--85 leased and
+    3 owned
+  Canada (2 locations)--leased
+  Europe (9 locations)--leased
+  Asia and Australia (7 locations)--leased
+  Latin America (1 location)--leased
+</TABLE>
+ 
+ITEM 3.  LEGAL PROCEEDINGS
+ 
+    There are no material pending legal proceedings, other than ordinary routine
+litigation incidental to the Company's business, to which the Company is a party
+or of which any of its property is the subject.
+ 
+ITEM 4.  SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+ 
+    No matter was submitted during the fourth quarter of the 1997 fiscal year to
+a vote of security holders, through the solicitation of proxies or otherwise.
+ 
+                                       8
+<PAGE>
+                                    PART II
+ 
+ITEM 5.  MARKET FOR REGISTRANT'S COMMON EQUITY AND RELATED STOCKHOLDER MATTERS
+ 
+    The Company's Class B Common Stock is listed on the New York Stock Exchange
+and the Pacific Stock Exchange and trades under the symbol NKE. At July 25, 1997
+there were 17,197 holders of record of the Company's Class B Common Stock and 32
+holders of record of the Company's Class A Common Stock. These figures do not
+include beneficial owners who hold shares in nominee name. The Class A Common
+Stock is not publicly traded but each share is convertible upon request of the
+holder into one share of Class B Common Stock.
+ 
+    Reference is made to the table entitled "Selected Quarterly Financial Data"
+in Item 6, which sets forth, for the periods indicated, the range of high and
+low closing sales prices on the New York Stock Exchange, as adjusted to reflect
+the 2-for-1 stock split that became effective in October of 1990, the 2-for-1
+stock split that became effective in October of 1995 and the 2-for-1 stock split
+that became effective in October 1996. Such table also sets forth the amount and
+frequency of all cash dividends declared on the Company's common stock for the
+1996 and 1997 fiscal years.
+ 
+                                       9
+<PAGE>
+ITEM 6.  SELECTED FINANCIAL DATA
+ 
+                               FINANCIAL HISTORY
+<TABLE>
+<CAPTION>
+                                   1997         1996         1995        1994        1993        1992        1991
+                                -----------  -----------  ----------  ----------  ----------  ----------  ----------
+                                             (IN THOUSANDS, EXCEPT PER SHARE DATA AND FINANCIAL RATIOS)
+<S>                             <C>          <C>          <C>         <C>         <C>         <C>         <C>
+YEAR ENDED MAY 31,
+Revenues......................  $ 9,186,539  $ 6,470,625  $4,760,834  $3,789,668  $3,930,984  $3,405,211  $3,003,610
+Gross margin..................    3,683,546    2,563,879   1,895,554   1,488,245   1,543,991   1,316,122   1,153,080
+Gross margin %................         40.1%        39.6%       39.8%       39.3%       39.3%       38.7%       38.4%
+Net income....................      795,822      553,190     399,664     298,794     365,016     329,218     287,046
+Net income per common share...         2.68         1.88        1.36        0.99        1.18        1.07        0.94
+Average number of common and
+  common equivalent shares....      297,000      293,608     294,012     301,824     308,252     306,408     304,268
+Cash dividends declared per
+  common share................         0.38         0.29        0.24        0.20        0.19        0.15        0.13
+Cash flow from operations.....      323,120      339,672     254,913     576,463     265,292     435,838      11,122
+Price range of common stock
+  High........................       76.375       52.063      20.156      18.688      22.563      19.344      13.625
+  Low.........................       47.875       19.531      14.063      10.781      13.750       8.781       6.500
+AT MAY 31:
+Cash and equivalents..........  $   445,421  $   262,117  $  216,071  $  518,816  $  291,284  $  260,050  $  119,804
+Inventories...................    1,338,640      931,151     629,742     470,023     592,986     471,202     586,594
+Working capital...............    1,964,002    1,259,881     938,393   1,208,444   1,165,204     964,291     662,645
+Total assets..................    5,361,207    3,951,628   3,142,745   2,373,815   2,186,269   1,871,667   1,707,236
+Long-term debt................      296,020        9,584      10,565      12,364      15,033      69,476      29,992
+Redeemable Preferred Stock....          300          300         300         300         300         300         300
+Common shareholders' equity...    3,155,838    2,431,400   1,964,689   1,740,949   1,642,819   1,328,488   1,029,582
+Year-end stock price..........       57.500      50 .188      19.719      14.750      18.125      14.500       9.938
+Market capitalization.........   16,633,047   14,416,792   5,635,190   4,318,800   5,499,273   4,379,574   2,993,020
+FINANCIAL RATIOS:
+Return on equity..............         28.5%        25.2%       21.6%       17.7%       24.5%       27.9%       31.7%
+Return on assets..............         17.1%        15.6%       14.5%       13.1%       18.0%       18.4%       20.5%
+Inventory turns...............          4.8          5.0         5.2         4.3         4.5         3.9         4.1
+Current ratio at May 31.......          2.1          1.9         1.8         3.2         3.6         3.3         2.1
+Price/Earnings ratio at May
+  31..........................         21.5         26.6        14.5        14.9        15.3        13.5        10.5
+GEOGRAPHIC REVENUES:
+United States.................  $ 5,529,132  $ 3,964,662  $2,997,864  $2,432,684  $2,528,848  $2,270,880  $2,141,461
+Europe........................    1,833,722    1,334,340     980,444     927,269   1,085,683     919,763     664,747
+Asia/Pacific..................    1,245,217      735,094     515,652     283,421     178,196      75,732      56,238
+Canada, Latin America, and
+  other.......................      578,468      436,529     266,874     146,294     138,257     138,836     141,164
+TOTAL REVENUES................  $ 9,186,539  $ 6,470,625  $4,760,834  $3,789,668  $3,930,984  $3,405,211  $3,003,610
+ 
+<CAPTION>
+                                   1990        1989        1988
+                                ----------  ----------  ----------
+ 
+<S>                             <C>         <C>         <C>
+YEAR ENDED MAY 31,
+Revenues......................  $2,235,244  $1,710,803  $1,203,440
+Gross margin..................     851,072     635,972     400,060
+Gross margin %................        38.1%       37.2%       33.2%
+Net income....................     242,958     167,047     101,695
+Net income per common share...        0.80        0.56        0.34
+Average number of common and
+  common equivalent shares....     302,672     300,576     301,112
+Cash dividends declared per
+  common share................        0.10        0.07        0.05
+Cash flow from operations.....     127,075     169,441      19,019
+Price range of common stock
+  High........................      10.375       4.969       3.313
+  Low.........................       4.750       2.891       1.750
+AT MAY 31:
+Cash and equivalents..........  $   90,449  $   85,749  $   75,357
+Inventories...................     309,476     222,924     198,470
+Working capital...............     561,642     419,599     295,937
+Total assets..................   1,093,358     824,216     707,901
+Long-term debt................      25,941      34,051      30,306
+Redeemable Preferred Stock....         300         300         300
+Common shareholders' equity...     781,012     558,597     408,567
+Year-end stock price..........       9.813       4.750       3.031
+Market capitalization.........   2,942,679   1,417,381     899,741
+FINANCIAL RATIOS:
+Return on equity..............        36.3%       34.5%       27.4%
+Return on assets..............        25.3%       21.8%       16.7%
+Inventory turns...............         5.2         5.1         5.0
+Current ratio at May 31.......         3.1         2.9         2.2
+Price/Earnings ratio at May
+  31..........................        12.2         8.6         9.0
+GEOGRAPHIC REVENUES:
+United States.................  $1,755,496  $1,362,148  $  900,417
+Europe........................     334,275     241,380     233,402
+Asia/Pacific..................      29,332      32,027      21,058
+Canada, Latin America, and
+  other.......................     116,141      75,248      48,563
+TOTAL REVENUES................  $2,235,244  $1,710,803  $1,203,440
+</TABLE>
+ 
+All per common share data has been adjusted to reflect the 2-for-1 stock splits
+paid October 23, 1996, October 30, 1995 and October 5, 1990. The Company's Class
+B Common Stock is listed on the New York and Pacific Exchanges and trades under
+the symbol NKE. At May 31, 1997, there were approximately 300,000 shareholders.
+Years 1993 and prior have been restated to reflect the implementation of
+Statement of Financial Accounting Standard No. 109--Accounting for Income Taxes
+(see Notes 1 and 6 to the Consolidated Financial Statements).
+ 
+                 SELECTED QUARTERLY FINANCIAL DATA (UNAUDITED)
+ 
+<TABLE>
+<CAPTION>
+                                   1997        1996        1997        1996        1997        1996        1997        1996
+                                ----------  ----------  ----------  ----------  ----------  ----------  ----------  ----------
+                                     1ST QUARTER             2ND QUARTER             3RD QUARTER             4TH QUARTER
+                                ----------------------  ----------------------  ----------------------  ----------------------
+<S>                             <C>         <C>         <C>         <C>         <C>         <C>         <C>         <C>
+Revenues......................  $2,281,926  $1,700,020  $2,107,034  $1,356,758  $2,423,648  $1,582,039  $2,373,931  $1,852,067
+Gross margin..................     919,807     686,641     829,406     528,629     988,221     628,723     946,112     731,514
+Gross margin %................        40.3%       40.4%       39.4%       39.0%       40.8%       39.7%       39.9%       39.5%
+Net income....................     226,063     182,098     176,872      97,812     237,133     133,874     155,754     133,727
+Net income per common share...        0.76        0.62        0.60        0.34        0.80        0.45        0.52        0.45
+Average number of common and
+  common equivalent shares....     296,368     291,704     297,022     293,988     297,368     294,212     297,252     295,466
+Cash dividends declared per
+  common share................        0.08        0.06        0.10        0.08        0.10        0.08        0.10        0.07
+Price range of common stock
+  High........................      55.625      24.188      64.000      31.313      76.375      35.688      73.125      52.063
+  Low.........................      47.875      19.531      51.625      22.656      51.500      28.938      51.250      32.688
+</TABLE>
+ 
+- ------------------------
+ 
+*   For comparable purposes with 1997, quarterly figures for 1996 have been
+    adjusted to reflect the elimination of the one month lag in reporting by
+    certain of the Company's non-U.S. operations. See further discussion in Note
+    1 to the Consolidated Financial Statements.
+ 
+                                       10
+<PAGE>
+ITEM 7.  MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+         OF OPERATIONS
+ 
+HIGHLIGHTS
+ 
+    Fiscal year 1997 saw record revenues and earnings. Revenues and net income
+have now increased 13 and 11 consecutive comparable quarters, respectively.
+ 
+    - Revenues grew 42%, an increase of $2.7 billion, compared to the previous
+      year increase of 36%.
+ 
+    - Gross margins established a new record, surpassing 40% of revenues for the
+      first time.
+ 
+    - Selling and administrative costs increased 0.5%, as a percent of revenues,
+      over the previous year.
+ 
+    - Net income was $795.8 million, an increase of 44%.
+ 
+RESULTS OF OPERATIONS
+ 
+FISCAL 1997 COMPARED TO FISCAL 1996
+ 
+    Significant growth in worldwide revenues and improved gross margin
+percentage were the primary factors contributing to record earnings for fiscal
+1997 as compared to 1996. In the United States, footwear revenues increased $1
+billion, or 36%, demonstrating continued market share gains and industry growth.
+U.S. apparel exceeded $1 billion in revenues for the first time, increasing
+$588.5 million, or 70%, over the previous year. Revenues from international
+(non-U.S.) markets increased 49% over the previous year, and now represent 38%
+of total revenues. Markets outside the U.S. in which the Company operates,
+continue to offer tremendous opportunity for growth. The Company continues to
+invest in infrastructure and local marketing and advertising to capitalize on
+these opportunities. Through aggressive worldwide marketing efforts and global
+infrastructure spending, the Company is positioning itself to maintain and to
+expand markets and gain market share on a worldwide basis.
+ 
+    The Company experienced revenue growth in fiscal 1997 in all breakout
+categories (see chart). U.S. footwear represents the largest increase in total
+dollars, improving by almost $1 billion, or 36%, as a result of 28% more pairs
+sold and a 6% increase in average selling price. The increase in average selling
+price was due to a change in product mix as well as increased prices in effect
+during the second half of the fiscal year in certain categories. Men's
+basketball, men's running, men's cross training, kids, and women's fitness
+comprise approximately 79% of the total U.S. footwear business, and individually
+increased 35%, 59%, 26%, 53% and 51%, respectively. Brand Jordan and Golf
+categories increased significantly over the prior year, improving 133% and 111%,
+respectively. Two categories experienced revenue reductions, men's court and
+outdoor, down 22% and 24%, respectively. U.S. apparel experienced growth in all
+categories, demonstrating the strength of the NIKE brand. Brand revenues outside
+of the U.S. increased $1.1 billion, or 49%. The U.S. dollar strengthened against
+nearly all currencies. Had the U.S. dollar remained constant with that of the
+prior year, non-U.S. revenues would have increased $1.4 billion, or 59%. By
+region, Asia Pacific increased $511 million, or 70% (84% on a constant dollar
+basis), Europe increased $497 million, or 38% (48% on a constant dollar basis)
+and the Americas (which includes Canada and Latin America) increased $137
+million, or 44% (46% on a constant dollar basis). The most significant increases
+were in Japan, Korea, United Kingdom, Italy, and Canada. Other Brands, which
+includes Bauer Inc., Cole Haan, Sports Specialties, Corp., and Tetra Plastics,
+Inc., decreased 3% to $504 million. The Company expects revenue growth in fiscal
+1998 to be affected by strong demand for the NIKE brand on a global scale, and
+reduced growth rates in the U.S. given the significance of the existing market
+share.
+ 
+                                       11
+<PAGE>
+    The breakdown of revenues follows:
+ 
+<TABLE>
+<CAPTION>
+                                                             YEAR ENDED MAY 31,
+                                          ---------------------------------------------------------
+                                                        %                   %                   %
+                                             1997      CHG       1996      CHG       1995      CHG
+                                          -----------  ----   -----------  ----   -----------  ----
+                                                               (IN THOUSANDS)
+<S>                                       <C>          <C>    <C>          <C>    <C>          <C>
+United States footwear..................  $ 3,770,600   36%   $ 2,772,500   20%   $ 2,309,400   24%
+United States apparel...................    1,431,000   70        842,500   99        423,900   25
+                                          -----------  ----   -----------  ----   -----------  ----
+    Total United States.................    5,201,600   44      3,615,000   32      2,733,300   24
+                                          -----------  ----   -----------  ----   -----------  ----
+Non-U.S. footwear.......................    2,391,000   42      1,682,300   35      1,244,300   25
+Non-U.S. apparel........................    1,089,800   67        651,400   38        472,700   32
+                                          -----------  ----   -----------  ----   -----------  ----
+    Total Non-U.S.......................    3,480,800   49      2,333,700   36      1,717,000   27
+                                          -----------  ----   -----------  ----   -----------  ----
+Other brands............................      504,100   (3)       521,900   68        310,600   38
+                                          -----------  ----   -----------  ----   -----------  ----
+    Total NIKE..........................  $ 9,186,500   42%   $ 6,470,600   36%   $ 4,760,900   26%
+                                          -----------  ----   -----------  ----   -----------  ----
+                                          -----------  ----   -----------  ----   -----------  ----
+</TABLE>
+ 
+    Gross margins increased to 40.1% of revenues in fiscal 1997, exceeding 40%
+for the first time in Company history. The improved percentage was principally
+driven by price increases in certain U.S. footwear categories in effect the
+second half of the year. This was offset by slight reductions in gross margin
+percentages from increased close-out sales as a percentage of total sales, most
+predominately at Bauer, due to the softening of the in-line skate market and
+liquidation of non-Bauer brand product to consolidate to a single Bauer brand.
+Global fiscal 1998 margins could be affected negatively by increasing product
+costs, badded infrastructure to support higher levels of operations, and
+increased sales of lower priced product including close-outs.
+ 
+    Selling and administrative expenses represented 25.1% of revenues compared
+with 24.6% in the prior year. NIKE brand expenses increased $353 in the U.S. and
+$355 million outside the U.S. Increases were largely driven by increased sales
+and marketing spending, as well as infrastructure-related costs to support
+growth outside the U.S. The Company intends to continue to invest in growth
+opportunities and worldwide marketing and advertising in order to ensure the
+successful sell-through of orders discussed below.
+ 
+    Interest expense increased $12.8 million due to increased short-term and new
+long-term borrowings needed to fund the increased level of operations, including
+increased working capital requirements and infrastructure. See further
+discussion under liquidity and capital resources.
+ 
+    Other income/expense was a net expense of $32.3 million in fiscal 1997,
+compared with $36.7 million in 1996. The majority of the reduction was
+attributable to increased interest income, higher gain on disposal of assets and
+income from a new promotional event staged in Japan, offset by an one-time Bauer
+restructuring charge of $18 million, which includes, among other things, moving
+certain products to offshore production and the closing of certain facilities.
+ 
+    Worldwide futures and advance orders for NIKE brand athletic footwear and
+apparel, scheduled for delivery from June through November, 1997, were
+approximately $4.9 billion, 18% higher than such orders booked in the comparable
+period of the prior year. These orders and the percentage growth in these orders
+are not necessarily indicative of the growth in revenues which the Company will
+experience for the subsequent periods. This is because the mix of
+advance/futures and orders at once has shifted significantly toward
+advance/futures orders as the NIKE brand and futures program become more
+established in all areas, specifically in the non U.S. regions. The mix of
+orders will continue to vary as the non-U.S. operations continue to account for
+a greater percentage of total revenues and place a greater emphasis on futures
+programs. Finally, exchange rates can cause differences in comparisons.
+ 
+    Since the Company operates globally, it is exposed to market risks from
+changes in foreign currency exchange rates. In order to minimize the effect of
+fluctuations on the Company's foreign currency
+ 
+                                       12
+<PAGE>
+transactions, the Company uses highly liquid foreign currency spot, forward and
+purchased options with high credit quality financial institutions. The Company
+transacts in foreign exchange contracts to hedge underlying economic exposures
+and does not transact in derivatives for trading or speculative purposes. Where
+possible, the Company nets its foreign exchange exposures to take advantage of
+natural offsets that occur in the normal course of business. Firmly committed
+transactions and the related receivables and payables may be hedged with forward
+exchange contracts or purchased options. Anticipated, but not yet firmly
+committed transactions, may be hedged through the use of purchased options.
+Additional information concerning the Company's hedging activities is presented
+in Note 14 to the Consolidated Financial Statements.
+ 
+    The Company's non-U.S. operations are subject to the usual risks of doing
+business abroad, such as the imposition of import quotas or anti-dumping duties.
+In 1995, the EU Commission, at the request of the European footwear
+manufacturers, initiated two anti-dumping investigations covering certain
+footwear imported from the People's Republic of China, Indonesia and Thailand.
+In January 1997, the Commission imposed significant provisional anti-dumping
+duties on textile upper shoes imported from China and Indonesia. The Commission
+has not yet adopted permanent measures nor measures for leather/synthetic shoes,
+and the Company is unable to determine whether the Commission will do so.
+ 
+    Nevertheless, the investigations and the anti-dumping duties expressly
+exclude "footwear designed for a sporting activity", and the Company does not
+currently believe that the Commission will change the exclusion. While the
+exclusion is subject to interpretation and/or amendment by customs authorities,
+the Company believes that most of its footwear sourced in the target countries
+for sale in the EU fits within the exclusion and, therefore, the Company will
+not be materially affected by the results of the antidumping investigations. If
+the Company's footwear were not covered by the exclusion, the Company would
+consider, in addition to its possible legal remedies, shifting the production of
+such footwear to other countries in order to maintain competitive pricing. The
+Company believes that it is prepared to deal effectively with any such
+anti-dumping measures that may arise and that any adverse impact would be of a
+short-term nature. The Company continues to closely monitor international trade
+restrictions and to adopt its multi-country sourcing strategy and contingency
+plans. The Company believes that its major competitors would be similarly
+impacted by any such restrictions.
+ 
+    As further explained in Note 1 to the Consolidated Financial Statements,
+prior to fiscal year 1997, certain of the Company's non-U.S. operations reported
+their results of operations on a one month lag which allowed more time to
+compile results. Beginning in the first quarter of fiscal year 1997, the one
+month lag was eliminated and the May 1996 charge from operations for these
+entities of $4.1 million was recorded to retained earnings. This change did not
+have a material effect on the annual results of operations, however, quarterly
+results changed as certain reporting periods shifted one month. The Selected
+Quarterly Data section includes adjusted quarterly data for fiscal year 1996 as
+if the change had been in effect.
+ 
+FISCAL 1996 COMPARED TO FISCAL 1995
+ 
+    Significant growth in worldwide revenues and improved leverage of selling
+and administrative costs were the primary factors contributing to record
+earnings for fiscal year 1996 as compared to 1995.
+ 
+    The Company experienced revenue growth in fiscal 1996 in all breakout
+categories. The most significant increase in absolute dollars was U.S. footwear,
+which grew $463.2 million, or 20.1%, as a result of 19% more pairs shipped and a
+0.9% increase in average selling price per pair. Men's basketball, women's
+fitness and men's training comprised approximately half of the U.S. footwear
+category in terms of total revenues, and individually increased 7%, 29% and 25%,
+respectively, over the prior year. U.S. apparel increased $418.6 million, or
+99%, experiencing growth in all categories and demonstrating the strength of the
+NIKE brand. Non-U.S. brand revenues also increased significantly, growing $616.7
+million, or 35.9%, as a result of increases of $438.0 million (35.2%) and $178.7
+million (37.8%) in footwear and apparel,
+ 
+                                       13
+<PAGE>
+respectively, over the prior year. Non-U.S. revenues were increased 1.2% as a
+result of the foreign currency translation impact. All NIKE regions outside the
+U.S. experienced revenue increases greater than 30%. Europe increased 33%, Asia
+Pacific, 41%, and the Americas, 35%. The most significant increases were in
+Japan, Italy, United Kingdom, Korea and Canada. Other brands increased $211.3
+million, or 68%, over the prior year. Bauer, which was acquired at the end of
+the Company's third quarter of fiscal 1995, contributed $173.7 million of the
+increase.
+ 
+    Gross margins were 39.6% in fiscal 1996 compared to 39.8% in 1995. The
+slight reduction in gross margins compared with 1995 was primarily driven by
+increased costs of air freight to meet delivery dates on increasing customer
+orders, and increased footwear product costs not fully recovered through the
+selling price. These higher expenses were partially offset by improved apparel
+margins due to significant increases in revenues and a reduction in close-outs
+as a percentage of total revenues.
+ 
+    Total selling and administrative expenses as a percentage of revenues
+decreased to 24.6% as compared to 25.4% in 1995. The reduction can be attributed
+primarily to significant increases in revenues. The increase in absolute dollars
+was $378.9 million, or 31%. U.S. operations increased $160.5 million and non-
+U.S. increased $176.3 million, largely a result of increased sales and marketing
+spending as well as infrastructure to support growth outside the U.S. Bauer
+accounted for $33 million of the increase.
+ 
+    Interest expense increased $15.3 million due primarily to the higher levels
+of short term borrowings needed to fund current operations. In 1995, average
+cash and equivalents were higher, as available cash was used to fund the
+acquisition of Bauer.
+ 
+    Other income/expense rose $25 million in expense over 1995, primarily as a
+result of increased goodwill amortization from the acquisition of Bauer, a
+reduction in interest income due to a net lower cash position compared with the
+prior year, and increased profit share expense due to increased earnings. These
+were partially offset by the absence of non-recurring specific obligations which
+occurred in the prior year related to the shutdown for certain facilities in
+conjunction with the consolidation of European warehouses.
+ 
+LIQUIDITY AND CAPITAL RESOURCES
+ 
+    The Company's financial position was very strong at May 31, 1997. Compared
+to May 31, 1996, total assets grew 36%, or $1.4 billion, to $5.4 billion, and
+shareholders' equity increased 30%, or $724 million, to $3.2 billion. Working
+capital increased $704 million, and the Company's current ratio increased to 2.1
+at May 31, 1997 from 1.9 at 1996 fiscal year-end.
+ 
+    Cash provided by operations decreased slightly to $323 million for the year
+ended May 31, 1997, primarily due to improved operating results offset by
+increased working capital requirements, given the global growth of the Company.
+Specifically, inventories increased $417 million, representing growth in nearly
+all areas of the Company. U.S. footwear and apparel inventories increased $71
+million (31%) and $52 million (29%), respectively. The largest increases outside
+of the U.S. were in the European and Asia/ Pacific regions with increases of
+$121 million (54%) and $119 million (134%), respectively, due primarily to the
+significant increase in operations. Inventory turns on a consolidated basis
+reduced to approximately 4.8 times, as compared with 5.0 in fiscal 1996.
+Accounts receivable increased $486 million due, in part, to the higher level of
+fourth quarter revenues compared with the previous year.
+ 
+    Additions to property, plant and equipment for fiscal 1997 were $466
+million, an increase of $250 million over 1996. Additions in the U.S. totaled
+$266 million for the year due to continued overall expansion of U.S. operations
+which includes warehouse locations, management information systems, world
+headquarters expansion and the continued development of NIKETOWN retail
+locations. Outside the U.S., additions totaled $172 million, compared to $154
+million for fiscal 1996, and relates to the continued expansion of
+infrastructure, investments in information systems and new NIKE retail
+locations. The remaining additions relate to other brands. Expected capital
+expenditures for fiscal 1998 approximate $680
+ 
+                                       14
+<PAGE>
+million, with the primary components consisting of the continued expansion of
+the world headquarters, new NIKETOWN retail locations and warehouse expansion in
+the U.S., Japan and Korea.
+ 
+    Additions to long-term debt of approximately $300 million in fiscal 1997,
+were used to fund the significant increase in property, plant and equipment, as
+well as increased working capital requirements. In June 1996, the Company's
+Japanese subsidiary borrowed 10.5 billion Yen (approximately $100 million) in a
+private placement, maturing June 26, 2011, to fund construction of a warehouse
+and distribution center and for other corporate purposes. Additionally, during
+December 1996 the Company filed a shelf registration statement with the
+Securities and Exchange Commission for the sale of up to $500 million of debt
+securities. The filing will enable the Company to issue debt from time to time
+during the next several years. Under this program, the Company issued $200
+million seven-year notes in December 1996, maturing December 1, 2003, and
+subsequent to May 31, 1997, an additional $100 million medium-term notes were
+issued, maturing in three to five years. The proceeds were swapped into Dutch
+Guilders to obtain long-term fixed rate financing to support the growth of the
+Company's European operations.
+ 
+    Management believes that significant funds generated by operations, together
+with access to sufficient sources of funds, will adequately meet its anticipated
+operating, global infrastructure expansion and capital needs. Significant short
+and long-term lines of credit are maintained with banks which, along with cash
+on hand, provide adequate operating liquidity. Liquidity is also provided by the
+Company's commercial paper program under which there was $0 outstanding at both
+May 31, 1997 and 1996.
+ 
+    Dividends per share of common stock for fiscal 1997 rose $.09 over fiscal
+1996 to $.38 per share. Dividend declaration in all four quarters has been
+consistent since February 1984. Based upon current projected earnings and cash
+flow requirements, the Company anticipates continuing a dividend and reviewing
+its amount at the November Board of Directors meeting. The Company's policy
+continues to target an annual dividend in the range of 15% to 25% of trailing
+twelve-month earnings.
+ 
+    During fiscal 1994, the Company announced that the Executive Committee of
+its Board of Directors, acting within limits set by the Board, authorized a plan
+to repurchase a maximum of $450 million NIKE Class B Common Stock over a period
+of up to three years. During fiscal 1996, the Board of Directors voted to extend
+the 1994 stock repurchase program until July 1, 1999. Funding has, and is
+expected to continue to, come from operating cash flow in combination with
+occasional short or medium-term borrowings. The timing and the amount of shares
+purchased will be dictated by working capital needs and stock market conditions.
+The Company did not repurchase any shares during fiscal 1997 and, as of May 31,
+1997, the Company had repurchased 20.6 million shares at a total cost of $301.7
+million.
+ 
+    Special Note Regarding Forward-Looking Statements
+ 
+    Certain written and oral statements made or incorporated by reference from
+time to time by NIKE or its representatives in this report, other reports,
+filings with the Securities and Exchange Commission, press releases,
+conferences, or otherwise, are "forward-looking statements" within the meaning
+of the Private Securities Litigation Reform Act of 1995 ("the Act").
+Forward-looking statements include, without limitation, any statement that may
+predict, forecast, indicate, or imply future results, performance, or
+achievements, and may contain the words "believe," "anticipate," "expect,"
+"estimate," "project," "will be," "will continue," "will likely result," or
+words or phrases of similar meaning. Forward-looking statements involve risks
+and uncertainties which may cause actual results to differ materially from the
+forward-looking statements. The risks and uncertainties are detailed from time
+to time in reports filed by NIKE with the S.E.C., including Forms 8-K, 10-Q, and
+10-K, and include, among others, the following: international, national and
+local general economic and market conditions; the size and growth of the overall
+athletic footwear, apparel, and equipment markets; intense competition among
+designers, marketers, distributors and sellers of athletic footwear, apparel,
+and equipment for consumers and endorsers; demographic changes; changes in
+consumer preferences; popularity of particular designs, categories of products,
+and sports; seasonal and geographic demand for NIKE products; the size, timing
+and mix of purchases of NIKE's products; fluctuations and difficulty in
+forecasting operating results, including, without limitation, the fact that
+advance "futures" orders may not be indicative of future revenues due to the
+changing mix of futures and at-once orders; the ability of NIKE to sustain,
+manage or forecast its growth; new product development and introduction; the
+ability to secure and protect trademarks, patents, and other intellectual
+property; performance and reliability of products; customer service; adverse
+publicity; the loss of significant customers or suppliers; dependence on
+distributors; business disruptions; increased costs of freight and
+transportation to meet delivery deadlines; changes in business strategy or
+development plans; general risks associated with doing business outside the
+United States, including, without limitation, import duties, tariffs, quotas and
+political instability; changes in government regulations;
+ 
+                                       15
+<PAGE>
+liability and other claims asserted against NIKE; the ability to attract and
+retain qualified personnel; and other factors referenced or incorporated by
+reference in this report and other reports. The risks included here are not
+exhaustive. Other sections of this report may include additional factors which
+could adversely impact NIKE's business and financial performance. Moreover, NIKE
+operates in a very competitive and rapidly changing environment. New risk
+factors emerge from time to time and it is not possible for management to
+predict all such risk factors, nor can it assess the impact of all such risk
+factors on NIKE's business or the extent to which any factor, or combination of
+factors, may cause actual results to differ materially from those contained in
+any forward-looking statements. Given these risks and uncertainties, investors
+should not place undue reliance on forward-looking statements as a prediction of
+actual results.
+ 
+                                       16
+<PAGE>
+ITEM 8.  FINANCIAL STATEMENTS AND SUPPLEMENTAL DATA
+ 
+    Management of NIKE, Inc. is responsible for the information and
+representations contained in this report. The financial statements have been
+prepared in conformity with the generally accepted accounting principles we
+considered appropriate in the circumstances and include some amounts based on
+our best estimates and judgments. Other financial information in this report is
+consistent with these financial statements.
+ 
+    The Company's accounting systems include controls designed to reasonably
+assure that assets are safeguarded from unauthorized use or disposition and
+which provide for the preparation of financial statements in conformity with
+generally accepted accounting principles. These systems are supplemented by the
+selection and training of qualified financial personnel and an organizational
+structure providing for appropriate segregation of duties.
+ 
+    An Internal Audit department reviews the results of its work with the Audit
+Committee of the Board of Directors, presently consisting of three outside
+directors of the Company. The Audit Committee is responsible for recommending to
+the Board of Directors the appointment of the independent accountants and
+reviews with the independent accountants, management and the internal audit
+staff, the scope and the results of the annual examination, the effectiveness of
+the accounting control system and other matters relating to the financial
+affairs of the Company as they deem appropriate. The independent accountants and
+the internal auditors have full access to the Committee, with and without the
+presence of management, to discuss any appropriate matters.
+ 
+                                       17
+<PAGE>
+                       REPORT OF INDEPENDENT ACCOUNTANTS
+ 
+Portland, Oregon
+June 27, 1997
+To the Board of Directors and
+Shareholders of NIKE, Inc.
+ 
+    In our opinion, the accompanying consolidated financial statements listed in
+the index appearing under Item 14(a)(1) and (2) on page 36 present fairly, in
+all material respects, the financial position of NIKE, Inc. and its subsidiaries
+at May 31, 1997 and 1996, and the results of their operations and their cash
+flows for each of the three years in the period ended May 31, 1997, in
+conformity with generally accepted accounting principles. These financial
+statements are the responsibility of the Company's management; our
+responsibility is to express an opinion on these financial statements based on
+our audits. We conducted our audits of these statements in accordance with
+generally accepted auditing standards which require that we plan and perform the
+audit to obtain reasonable assurance about whether the financial statements are
+free of material misstatement. An audit includes examining, on a test basis,
+evidence supporting the amounts and disclosures in the financial statements,
+assessing the accounting principles used and significant estimates made by
+management, and evaluating the overall financial statement presentation. We
+believe that our audits provide a reasonable basis for the opinion expressed
+above.
+ 
+            [LOGO]
+ 
+                                       18
+<PAGE>
+                                   NIKE, INC.
+ 
+                        CONSOLIDATED STATEMENT OF INCOME
+ 
+<TABLE>
+<CAPTION>
+                                                        YEAR ENDED MAY 31,
+                                               -------------------------------------
+                                                  1997         1996         1995
+                                               -----------  -----------  -----------
+                                               (IN THOUSANDS, EXCEPT PER SHARE DATA)
+<S>                                            <C>          <C>          <C>
+Revenues.....................................  $ 9,186,539  $ 6,470,625  $ 4,760,834
+Costs and expenses:
+  Costs of sales.............................    5,502,993    3,906,746    2,865,280
+  Selling and administrative.................    2,303,704    1,588,612    1,209,760
+  Interest expense (Notes 4 and 5)...........       52,343       39,498       24,208
+  Other income/expense, net (Notes 1, 9 and
+    10)......................................       32,277       36,679       11,722
+                                               -----------  -----------  -----------
+                                                 7,891,317    5,571,535    4,110,970
+                                               -----------  -----------  -----------
+Income before income taxes...................    1,295,222      899,090      649,864
+Income taxes (Note 6)........................      499,400      345,900      250,200
+                                               -----------  -----------  -----------
+Net income...................................  $   795,822  $   553,190  $   399,664
+                                               -----------  -----------  -----------
+                                               -----------  -----------  -----------
+Net income per common share (Note 1).........  $      2.68  $      1.88  $      1.36
+                                               -----------  -----------  -----------
+                                               -----------  -----------  -----------
+Average number of common and common
+  equivalent shares (Note 1).................      297,000      293,608      294,012
+                                               -----------  -----------  -----------
+                                               -----------  -----------  -----------
+</TABLE>
+ 
+The accompanying notes to consolidated financial statements are an integral part
+                               of this statement.
+ 
+                                       19
+<PAGE>
+                                   NIKE, INC.
+ 
+                           CONSOLIDATED BALANCE SHEET
+ 
+<TABLE>
+<CAPTION>
+                                                                 MAY 31,
+                                                         ------------------------
+                                                            1997         1996
+                                                         -----------  -----------
+                                                              (IN THOUSANDS)
+<S>                                                      <C>          <C>
+                                     ASSETS
+ 
+Current Assets:
+  Cash and equivalents.................................  $   445,421  $   262,117
+  Accounts receivable, less allowance for doubtful
+    accounts of $57,233 and $43,372....................    1,754,137    1,346,125
+  Inventories (Note 2).................................    1,338,640      931,151
+  Deferred income taxes (Note 6).......................      135,663       93,120
+  Prepaid expenses (Note 1)............................      157,058       94,427
+                                                         -----------  -----------
+    Total current assets...............................    3,830,919    2,726,940
+                                                         -----------  -----------
+Property, plant and equipment, net (Notes 3 and 5).....      922,369      643,459
+Identifiable intangible assets and goodwill (Note 1)...      464,191      474,812
+Deferred income taxes and other assets (Notes 1 and
+  6)...................................................      143,728      106,417
+                                                         -----------  -----------
+    Total assets.......................................  $ 5,361,207  $ 3,951,628
+                                                         -----------  -----------
+                                                         -----------  -----------
+ 
+                      LIABILITIES AND SHAREHOLDERS' EQUITY
+Current Liabilities:
+  Current portion of long-term debt (Note 5)...........  $     2,216  $     7,301
+  Notes payable (Note 4)...............................      553,153      445,064
+  Accounts payable (Note 4)............................      687,121      455,034
+  Accrued liabilities..................................      570,504      480,407
+  Income taxes payable.................................       53,923       79,253
+                                                         -----------  -----------
+    Total current liabilities..........................    1,866,917    1,467,059
+                                                         -----------  -----------
+Long-term debt (Notes 5 and 13)........................      296,020        9,584
+Deferred income taxes and other liabilities (Notes 1
+  and 6)...............................................       42,132       43,285
+Commitments and contingencies (Notes 11 and 14)........      --           --
+Redeemable Preferred Stock (Note 7)....................          300          300
+Shareholders' equity (Note 8):
+  Common Stock at stated value:
+    Class A convertible--101,711 and 102,240 shares
+      outstanding......................................          152          153
+    Class B--187,559 and 185,018 shares outstanding....        2,706        2,702
+  Capital in excess of stated value....................      210,650      154,833
+  Foreign currency translation adjustment..............      (31,333)     (16,501)
+  Retained earnings....................................    2,973,663    2,290,213
+                                                         -----------  -----------
+    Total shareholders' equity.........................    3,155,838    2,431,400
+                                                         -----------  -----------
+Total liabilities and shareholders' equity.............  $ 5,361,207  $ 3,951,628
+                                                         -----------  -----------
+                                                         -----------  -----------
+</TABLE>
+ 
+The accompanying notes to consolidated financial statements are an integral part
+                               of this statement.
+ 
+                                       20
+<PAGE>
+                                   NIKE, INC.
+ 
+                      CONSOLIDATED STATEMENT OF CASH FLOWS
+ 
+<TABLE>
+<CAPTION>
+                                                                    YEAR ENDED MAY 31,
+                                                              -------------------------------
+                                                                1997       1996       1995
+                                                              ---------  ---------  ---------
+                                                                      (IN THOUSANDS)
+<S>                                                           <C>        <C>        <C>
+Cash provided (used) by operations:
+  Net income................................................  $ 795,822  $ 553,190  $ 399,664
+  Income charges (credits) not affecting cash:
+    Depreciation............................................    138,038     97,179     71,113
+    Deferred income taxes and purchased tax benefits........    (47,146)   (73,279)   (24,668)
+    Amortization and other..................................     30,291     32,685     14,966
+  Changes in certain working capital components:
+    Increase in inventories.................................   (416,706)  (301,409)   (69,676)
+    Increase in accounts receivable.........................   (485,595)  (292,888)  (301,648)
+    Increase in other current assets........................    (56,928)   (20,054)   (10,276)
+    Increase in accounts payable, accrued liabilities and
+      income taxes payable..................................    365,344    344,248    175,438
+                                                              ---------  ---------  ---------
+  Cash provided by operations...............................    323,120    339,672    254,913
+                                                              ---------  ---------  ---------
+Cash provided (used) by investing activities:
+  Additions to property, plant and equipment................   (465,908)  (216,384)  (154,125)
+  Disposals of property, plant and equipment................     24,294     12,775      9,011
+  Increase in other assets..................................    (43,829)   (26,376)    (9,499)
+  (Decrease) increase in other liabilities..................    (10,833)    (9,651)     3,239
+  Acquisition of subsidiaries:
+    Identifiable intangible assets and goodwill.............     --         --       (345,901)
+    Net assets acquired.....................................     --         --        (84,119)
+                                                              ---------  ---------  ---------
+  Cash used by investing activities.........................   (496,276)  (239,636)  (581,394)
+                                                              ---------  ---------  ---------
+Cash provided (used) by financing activities:
+Additions to long-term debt.................................    300,500      5,044      2,971
+Reductions in long-term debt including current portion......     (5,190)   (30,352)   (39,804)
+Increase in notes payable...................................     92,926     47,964    263,874
+Proceeds from exercise of options...........................     26,282     21,150      6,154
+Repurchase of stock.........................................     --        (18,756)  (142,919)
+Dividends--common and preferred.............................   (100,896)   (78,834)   (65,418)
+                                                              ---------  ---------  ---------
+  Cash provided (used) by financing activities..............    313,622    (53,784)    24,858
+                                                              ---------  ---------  ---------
+Effect of exchange rate changes on cash.....................       (166)      (206)    (1,122)
+                                                              ---------  ---------  ---------
+Effect of May 1996 cash flow activity for certain
+  subsidiaries
+  (Note 1)..................................................     43,004     --         --
+                                                              ---------  ---------  ---------
+Net increase (decrease) in cash and equivalents.............    183,304     46,046   (302,745)
+                                                              ---------  ---------  ---------
+Cash and equivalents, beginning of year.....................    262,117    216,071    518,816
+                                                              ---------  ---------  ---------
+Cash and equivalents, end of year...........................  $ 445,421  $ 262,117  $ 216,071
+                                                              ---------  ---------  ---------
+                                                              ---------  ---------  ---------
+Supplemental disclosure of cash flow information:
+  Cash paid during the year for:
+    Interest (net of amount capitalized)....................  $  44,000  $  32,800  $  20,200
+    Income taxes............................................    543,100    359,300    285,400
+</TABLE>
+ 
+The accompanying notes to consolidated financial statements are an integral part
+                               of this statement.
+ 
+                                       21
+<PAGE>
+                                   NIKE, INC.
+ 
+                 CONSOLIDATED STATEMENT OF SHAREHOLDERS' EQUITY
+ 
+<TABLE>
+<CAPTION>
+                                                    COMMON STOCK
+                                          ---------------------------------
+                                                                             CAPITAL IN    FOREIGN
+                                              CLASS A           CLASS B        EXCESS      CURRENCY
+                                          ---------------   ---------------  OF STATED    TRANSLATION   RETAINED
+                                          SHARES   AMOUNT   SHARES   AMOUNT    VALUE      ADJUSTMENT    EARNINGS       TOTAL
+                                          -------  ------   -------  ------  ----------   ----------   -----------  -----------
+                                                                             (IN THOUSANDS)
+<S>                                       <C>      <C>      <C>      <C>     <C>          <C>          <C>          <C>
+BALANCE AT MAY 31, 1994.................   26,679   $159     46,521  $2,704   $108,284     $(15,123)   $ 1,644,925  $ 1,740,949
+Stock options exercised.................                        241      2       8,954                                    8,956
+Conversion to Class B Common
+  Stock.................................     (784)    (4)       784      4                                              --
+Repurchase of Class B Common
+  Stock.................................                     (2,130)   (13 )    (4,801)                   (138,106)    (142,920)
+Stock issued pursuant to contractual
+  obligations...........................                        134      1       9,999                                   10,000
+Translation of statements of non-U.S.
+  operations............................                                                     16,708                      16,708
+Net income..............................                                                                   399,664      399,664
+Dividends on Redeemable Preferred
+  Stock.................................                                                                       (30)         (30)
+Dividends on Common Stock...............                                                                   (68,638)     (68,638)
+ 
+BALANCE AT MAY 31, 1995.................   25,895    155     45,550  2,698     122,436        1,585      1,837,815    1,964,689
+                                          -------  ------   -------  ------  ----------   ----------   -----------  -----------
+Stock options exercised.................                        756      3      32,848                                   32,851
+Conversion to Class B Common
+  Stock.................................     (655)    (2)       655      2                                              --
+Repurchase of Class B Common
+  Stock.................................                       (200)    (1 )      (451)                    (18,304)     (18,756)
+Two-for-one Stock Split October 30,
+  1995..................................   25,880            45,748
+Translation of statements of non-U.S.
+  operations............................                                                    (18,086)                    (18,086)
+Net income..............................                                                                   553,190      553,190
+Dividends on Redeemable Preferred
+  Stock.................................                                                                       (30)         (30)
+Dividends on Common Stock...............                                                                   (82,458)     (82,458)
+ 
+BALANCE AT MAY 31, 1996.................   51,120    153     92,509  2,702     154,833      (16,501)     2,290,213    2,431,400
+                                          -------  ------   -------  ------  ----------   ----------   -----------  -----------
+Stock options exercised.................                      1,475      3      55,817                                   55,820
+Conversion to Class B Common
+  Stock.................................     (279)    (1)       279      1                                              --
+Two-for-one Stock Split October 23,
+  1996..................................   50,870            93,296
+Translation of statements of non-U.S.
+  operations............................                                                    (14,832)                    (14,832)
+Net income..............................                                                                   795,822      795,822
+Dividends on Redeemable Preferred
+  Stock.................................                                                                       (30)         (30)
+Dividends on Common Stock...............                                                                  (108,249)    (108,249)
+Net income for the month ended May 1996,
+  due to the change in fiscal year-end
+  of certain non-U.S. operations (Note
+  1)....................................                                                                    (4,093)      (4,093)
+ 
+BALANCE AT MAY 31, 1997.................  101,711   $152    187,559  $2,706   $210,650     $(31,333)   $ 2,973,663  $ 3,155,838
+                                          -------  ------   -------  ------  ----------   ----------   -----------  -----------
+                                          -------  ------   -------  ------  ----------   ----------   -----------  -----------
+</TABLE>
+ 
+                                       22
+<PAGE>
+                                   NIKE, INC.
+ 
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+ 
+NOTE 1--SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES:
+ 
+BASIS OF CONSOLIDATION:
+ 
+    The consolidated financial statements include the accounts of the Company
+and its subsidiaries. All significant intercompany transactions and balances
+have been eliminated. Prior to fiscal year 1997, certain of the Company's
+non-U.S. operations reported their results of operations on a one month lag
+which allowed more time to compile results. Beginning in the first quarter of
+fiscal year 1997, the one month lag was eliminated. As a result, the May 1996
+charge from operations for these entities of $4,093,000 was recorded to retained
+earnings in the first quarter of the current year.
+ 
+RECOGNITION OF REVENUES:
+ 
+    Revenues recognized include sales plus fees earned on sales by licensees.
+ 
+ADVERTISING:
+ 
+    Advertising production costs are expensed the first time the advertisement
+is run. Media (TV and print) placement costs are expensed in the month the
+advertising appears. Total advertising and promotion expenses were $978,251,000,
+$642,498,000 and $495,006,000 for the years ended May 31, 1997, 1996 and 1995,
+respectively. Included in prepaid expenses and other assets was $111,925,000 and
+$69,340,000 at May 31, 1997 and 1996, respectively, relating to prepaid
+advertising and promotion expenses.
+ 
+CASH AND EQUIVALENTS:
+ 
+    Cash and equivalents represent cash and short-term, highly liquid
+investments with original maturities three months or less.
+ 
+INVENTORY VALUATION:
+ 
+    Inventories are stated at the lower of cost or market. Cost is determined
+using the last-in, first-out (LIFO) method for substantially all U.S.
+inventories. Non-U.S. inventories are valued on a first-in, first-out (FIFO)
+basis.
+ 
+PROPERTY, PLANT AND EQUIPMENT AND DEPRECIATION:
+ 
+    Property, plant and equipment are recorded at cost. Depreciation for
+financial reporting purposes is determined on a straight-line basis for
+buildings and leasehold improvements and principally on a declining balance
+basis for machinery and equipment, based upon estimated useful lives ranging
+from two to thirty years.
+ 
+IDENTIFIABLE INTANGIBLE ASSETS AND GOODWILL:
+ 
+    At May 31, 1997 and 1996, the Company had patents, trademarks and other
+identifiable intangible assets with a value of $219,186,000 and $209,586,000,
+respectively. The Company's excess of purchase cost over the fair value of net
+assets of businesses acquired (goodwill) was $326,252,000 and $327,555,000 at
+May 31, 1997 and 1996, respectively.
+ 
+                                       23
+<PAGE>
+                                   NIKE, INC.
+ 
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+ 
+NOTE 1--SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES: (CONTINUED)
+    Identifiable intangible assets and goodwill are being amortized over their
+estimated useful lives on a straight-line basis over five to forty years.
+Accumulated amortization was $81,247,000 and $62,329,000 at May 31, 1997 and
+1996, respectively.
+ 
+    Amortization expense, which is included in other income/expense, was
+$19,765,000, $21,772,000 and $13,176,000 for the years ended May 31, 1997, 1996
+and 1995, respectively. Intangible assets are periodically reviewed by the
+Company for impairments where the fair value is less than the carrying value.
+ 
+OTHER LIABILITIES:
+ 
+    Other liabilities include amounts with settlement dates beyond one year, and
+are primarily composed of long-term deferred endorsement payments of $15,815,000
+and $21,674,000 at May 31, 1997 and 1996, respectively. Deferred payments to
+endorsers relate to amounts due beyond contract termination, which are
+discounted at various interest rates and accrued over the contract period.
+ 
+ENDORSEMENT CONTRACTS:
+ 
+    Accounting for endorsement contracts is based upon specific contract
+provisions. Generally, endorsement payments are expensed uniformly over the term
+of the contract after giving recognition to periodic performance compliance
+provisions of the contracts. Contracts requiring prepayments are included in
+prepaid expenses or other assets depending on the length of the contract.
+ 
+FOREIGN CURRENCY TRANSLATION:
+ 
+    Adjustments resulting from translating foreign functional currency financial
+statements into U.S. dollars are included in the foreign currency translation
+adjustment in shareholders' equity.
+ 
+DERIVATIVES:
+ 
+    The Company enters into foreign currency contracts in order to reduce the
+impact of certain foreign currency fluctuations. Firmly committed transactions
+and the related receivables and payables may be hedged with forward exchange
+contracts or purchased options. Anticipated, but not yet firmly committed,
+transactions may be hedged through the use of purchased options. Premiums paid
+on purchased options and any gains are included in prepaid expenses or accrued
+liabilities and are recognized in earnings when the transaction being hedged is
+recognized. Gains and losses arising from foreign currency forward and option
+contracts, and cross-currency swap transactions are recognized in income or
+expense as offsets of gains and losses resulting from the underlying hedged
+transactions. Cash flows from risk management activities are classified in the
+same category as the cash flows from the related investment, borrowing or
+foreign exchange activity. See Note 14 for further discussion.
+ 
+INCOME TAXES:
+ 
+    Income taxes are provided currently on financial statement earnings of
+non-U.S. subsidiaries expected to be repatriated. The Company intends to
+determine annually the amount of undistributed non-U.S. earnings to invest
+indefinitely in its non-U.S. operations.
+ 
+    The Company accounts for income taxes using the asset and liability method.
+This approach requires the recognition of deferred tax liabilities and assets
+for the expected future tax consequences of temporary
+ 
+                                       24
+<PAGE>
+                                   NIKE, INC.
+ 
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+ 
+NOTE 1--SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES: (CONTINUED)
+differences between the carrying amounts and the tax bases of other assets and
+liabilities. See Note 6 for further discussion.
+ 
+NET INCOME PER COMMON SHARE:
+ 
+    Net income per common share is computed based on the weighted average number
+of common and common equivalent (stock option) shares outstanding for the
+periods reported.
+ 
+    On October 23, 1996 and October 30, 1995, the Company issued additional
+shares in connection with two-for-one stock splits effected in the form of a
+100% stock dividend on outstanding Class A and Class B common stock. The per
+common share amounts in the Consolidated Financial Statements and accompanying
+notes have been adjusted to reflect these stock splits.
+ 
+MANAGEMENT ESTIMATES:
+ 
+    The preparation of financial statements in conformity with generally
+accepted accounting principles requires management to make estimates, including
+estimates relating to assumptions that affect the reported amounts of assets and
+liabilities and disclosure of contingent assets and liabilities at the date of
+financial statements and the reported amounts of revenues and expenses during
+the reporting period. Actual results could differ from these estimates.
+ 
+RECLASSIFICATIONS:
+ 
+    Certain prior year amounts have been reclassified to conform to fiscal 1997
+presentation. These changes had no impact on previously reported results of
+operations or shareholders' equity.
+ 
+NOTE 2--INVENTORIES
+ 
+    Inventories by major classification are as follows:
+ 
+<TABLE>
+<CAPTION>
+                                                                              MAY 31,
+                                                                      ------------------------
+                                                                          1997         1996
+                                                                      ------------  ----------
+<S>                                                                   <C>           <C>
+Finished goods......................................................  $  1,248,401  $  874,700
+Work-in-progress....................................................        50,245      28,940
+Raw materials.......................................................        39,994      27,511
+                                                                      ------------  ----------
+                                                                      $  1,338,640  $  931,151
+                                                                      ------------  ----------
+                                                                      ------------  ----------
+</TABLE>
+ 
+    The excess of replacement cost over LIFO cost was $20,716,000 at May 31,
+1997, and $16,023,000 at May 31, 1996.
+ 
+                                       25
+<PAGE>
+                                   NIKE, INC.
+ 
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+ 
+NOTE 3--PROPERTY, PLANT AND EQUIPMENT:
+ 
+    Property, plant and equipment includes the following:
+ 
+<TABLE>
+<CAPTION>
+                                                                             MAY 31,
+                                                                    --------------------------
+                                                                        1997          1996
+                                                                    ------------  ------------
+<S>                                                                 <C>           <C>
+Land..............................................................  $     90,792  $     75,369
+Buildings.........................................................       241,062       246,602
+Machinery and equipment...........................................       735,739       572,396
+Leasehold improvements............................................       206,593        83,678
+Construction in process...........................................       151,561        69,660
+                                                                    ------------  ------------
+                                                                       1,425,747     1,047,705
+Less Accumulated Depreciation.....................................       503,378       404,246
+                                                                    ------------  ------------
+                                                                    $    922,369  $    643,459
+                                                                    ------------  ------------
+                                                                    ------------  ------------
+</TABLE>
+ 
+    Capitalized interest expense was $2,765,000, $858,000 and $261,000 for the
+fiscal years ended May 31, 1997, 1996 and 1995 respectively.
+ 
+NOTE 4--SHORT-TERM BORROWINGS AND CREDIT LINES
+ 
+    Notes payable to banks and interest bearing accounts payable to Nissho Iwai
+American Corporation NIAC) are summarized below:
+ 
+<TABLE>
+<CAPTION>
+                                                                                       MAY 31,
+                                                              ----------------------------------------------------------
+                                                                          1997                          1996
+                                                              ----------------------------  ----------------------------
+                                                              BORROWINGS    INTEREST RATE   BORROWINGS    INTEREST RATE
+                                                              -----------  ---------------  -----------  ---------------
+<S>                                                           <C>          <C>              <C>          <C>
+Banks:
+  Non-U.S. Operations.......................................   $ 553,153           4.08%     $ 445,064           4.38%
+                                                              -----------           ---     -----------           ---
+                                                               $ 553,153                     $ 445,064
+                                                              -----------                   -----------
+                                                              -----------                   -----------
+NIAC........................................................   $ 414,132           6.14%     $ 237,413           5.80%
+                                                              -----------           ---     -----------           ---
+                                                              -----------           ---     -----------           ---
+</TABLE>
+ 
+    The Company has outstanding loans at interest rates at various spreads above
+the banks' cost of funds for financing non-U.S. national operations. Certain of
+these loans can be secured by accounts receivable and inventory.
+ 
+    The Company purchases through Nissho Iwai American Corporation ("NIAC")
+substantially all of the athletic footwear and apparel it acquires from non-U.S.
+suppliers. Accounts payable to NIAC are generally due up to 120 days after
+shipment of goods from the foreign port. Interest on such accounts payable
+accrues at the ninety day London Interbank Offered Rate (LIBOR) as of the
+beginning of the month of the invoice date, plus .30%.
+ 
+    At May 31, 1997 and 1996, the Company had no outstanding borrowings under
+its $500 million unsecured multiple option facility with ten banks, which
+matures on October 31, 2001. This agreement contains optional borrowing
+alternatives consisting of a committed revolving loan facility and a competitive
+bid facility. The interest rate charged on this agreement is determined by the
+borrowing option and, under the committed revolving loan facility, is either the
+LIBOR plus .19% or the higher of the Fed Funds rate
+ 
+                                       26
+<PAGE>
+                                   NIKE, INC.
+ 
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+ 
+NOTE 4--SHORT-TERM BORROWINGS AND CREDIT LINES (CONTINUED)
+plus .50% or the Prime Rate. The agreement provides for annual fees of .07% of
+the total commitment. Under the agreement, the Company must maintain, among
+other things, certain minimum specified financial ratios with which the Company
+was in compliance at May 31, 1997.
+ 
+    Ratings for the Company to issue commercial paper, which is required to be
+supported by committed and uncommitted lines of credit, are A1 by Standard and
+Poor's Corporation and P1 by Moody's Investor Service. There were no amounts
+outstanding at May 31, 1997 or May 31, 1996 under these arrangements.
+ 
+NOTE 5--LONG-TERM DEBT
+ 
+    Long-term debt includes the following:
+ 
+<TABLE>
+<CAPTION>
+                                                                                 MAY 31,
+                                                                          ---------------------
+                                                                             1997       1996
+                                                                          ----------  ---------
+<S>                                                                       <C>         <C>
+6.375% Medium terms notes, payable December 1, 2003.....................  $  199,211  $  --
+4.30% Japanese yen notes, payable June 26, 2011.........................      92,373     --
+9.43% capital warehouse lease...........................................      --          7,485
+Other...................................................................       6,652      9,400
+                                                                          ----------  ---------
+    Total...............................................................     298,236     16,885
+Less current maturities.................................................       2,216      7,301
+                                                                          ----------  ---------
+                                                                          $  296,020  $   9,584
+                                                                          ----------  ---------
+                                                                          ----------  ---------
+</TABLE>
+ 
+    In December of 1996, the Company filed a $500 million shelf registration
+with the Securities and Exchange Commission and issued $200 million seven-year
+notes, maturing December 1, 2003. The proceeds were subsequently exchanged for
+Dutch Guilders and loaned to a European subsidiary. Interest on the loan is paid
+semi-annually. The Company entered into swap transactions reducing the effective
+interest rate to 5.64% as well as to hedge the foreign currency exposure related
+to the repayment of the intercompany loan. In June of 1997, the Company issued
+an additional $100 million medium term notes under this program with maturities
+of June 16, 2000 and June 17, 2002.
+ 
+    In June of 1996, the Company's Japanese subsidiary borrowed 10.5 billion yen
+in a private placement with a maturity of June 26, 2011. Interest is paid
+semi-annually. The agreement provides for early retirement after year ten.
+ 
+    The Company's long-term debt ratings are A+ by Standard and Poor's
+Corporation and A1 by Moody's Investor Service. Amounts of long-term maturities
+in each of the five fiscal years 1998 through 2002, respectively, are
+$2,216,000, $1,891,000, $2,187,000, $188,000 and $47,000.
+ 
+                                       27
+<PAGE>
+                                   NIKE, INC.
+ 
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+ 
+NOTE 6--INCOME TAXES
+ 
+    Income before incoming taxes and the provision for income taxes are as
+follows:
+ 
+<TABLE>
+<CAPTION>
+                                                                  YEAR ENDED MAY 31,
+                                                         ------------------------------------
+                                                             1997         1996        1995
+                                                         ------------  ----------  ----------
+                                                                    (IN THOUSANDS)
+<S>                                                      <C>           <C>         <C>
+Income before income taxes:
+  United States........................................  $  1,008,023  $  644,755  $  467,548
+  Foreign..............................................       287,199     254,335     182,316
+                                                         ------------  ----------  ----------
+                                                         $  1,295,222  $  899,090  $  649,864
+                                                         ------------  ----------  ----------
+                                                         ------------  ----------  ----------
+Provision for income taxes:
+Current:
+  United States
+    Federal............................................  $    359,408  $  247,526  $  172,127
+    State..............................................        74,716      42,622      34,764
+  Foreign..............................................       112,679     127,345      75,964
+                                                         ------------  ----------  ----------
+                                                              546,803     417,493     282,855
+                                                         ------------  ----------  ----------
+Deferred:
+  United States
+    Federal............................................       (21,097)    (33,003)    (25,689)
+    State..............................................        (5,062)     (7,657)     (2,430)
+  Foreign..............................................       (21,244)    (30,933)     (4,536)
+                                                         ------------  ----------  ----------
+                                                              (47,403)    (71,593)    (32,655)
+                                                         ------------  ----------  ----------
+                                                         $    499,400  $  345,900  $  250,200
+                                                         ------------  ----------  ----------
+                                                         ------------  ----------  ----------
+</TABLE>
+ 
+    During fiscal 1994 the Company permanently reinvested approximately
+$56,000,000 of its undistributed non-U.S.earnings in certain subsidiaries.
+ 
+    A benefit has been recognized for foreign loss carry forwards of
+$138,500,000 and $96,600,000 at May 31, 1997 and 1996, respectively, which have
+no expiration. As of May 31, 1997, the Company has utilized all foreign tax
+credits.
+ 
+                                       28
+<PAGE>
+                                   NIKE, INC.
+ 
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+ 
+NOTE 6--INCOME TAXES (CONTINUED)
+    Deferred tax liabilities (assets) are comprised of the following:
+ 
+<TABLE>
+<CAPTION>
+                                                                              MAY 31,
+                                                                      ------------------------
+                                                                         1997         1996
+                                                                      -----------  -----------
+<S>                                                                   <C>          <C>
+Undistributed earnings of foreign subsidiaries......................  $     3,026  $     3,220
+Other...............................................................       13,017       12,040
+                                                                      -----------  -----------
+  Gross deferred tax liabilities....................................       16,043       15,260
+                                                                      -----------  -----------
+Allowance for doubtful accounts.....................................      (16,092)      (9,050)
+Inventory reserves..................................................      (30,347)     (20,796)
+Deferred compensation...............................................      (26,659)     (17,583)
+Reserves and accrued liabilities....................................       50,738      (42,870)
+Tax basis inventory adjustment......................................      (19,263)     (12,363)
+Depreciation........................................................       (8,379)      (2,594)
+Foreign loss carry forwards.........................................      (32,100)     (25,162)
+Other...............................................................       (9,582)     (12,978)
+                                                                      -----------  -----------
+  Gross deferred tax assets.........................................     (193,160)    (143,396)
+                                                                      -----------  -----------
+Net deferred tax assets.............................................  $  (177,117) $  (128,136)
+                                                                      -----------  -----------
+                                                                      -----------  -----------
+</TABLE>
+ 
+    A reconcillation form the U.S. statutory income tax rate to the effective
+income tax rate follows:
+ 
+<TABLE>
+<CAPTION>
+                                                                             YEAR ENDED MAY 31,
+                                                                       -------------------------------
+                                                                         1997       1996       1995
+                                                                       ---------  ---------  ---------
+<S>                                                                    <C>        <C>        <C>
+U.S. Federal statutory rate..........................................       35.0%      35.0%      35.0%
+State income taxes, net of federal benefit...........................        3.5        2.6        3.2
+  Other, net.........................................................         .1         .9         .3
+                                                                             ---        ---        ---
+Effective income tax rate............................................       38.6%      38.5%      38.5%
+                                                                             ---        ---        ---
+                                                                             ---        ---        ---
+</TABLE>
+ 
+NOTE 7--REDEEMABLE PREFERRED STOCK
+ 
+    NIAC is the sole owner of the Company's authorized Redeemable Preferred
+Stock, $1 par value, which is redeemable at the option of NIAC at par value
+aggregating $300,000. A cumulative dividend of $.10 per share is payable
+annually on May 31 and no dividends may be declared or paid on the Common Stock
+of the Company unless dividends on the Redeemable Preferred Stock have been
+declared and paid in full. There have been no changes in the Redeemable
+Preferred Stock in the three years ended May 31, 1997. As the holder of the
+Redeemable Preferred Stock, NIAC does not have general voting rights but does
+have the right to vote as a separate class on the sale of all or substantially
+all of the assets of the Company and its subsidiaries, on merger, consolidation,
+liquidation or dissolution of the Company or on the sale or assignment of the
+NIKE trademark for athletic footwear sold in the United States.
+ 
+                                       29
+<PAGE>
+                                   NIKE, INC.
+ 
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+ 
+NOTE 8--COMMON STOCK
+ 
+    The authorized number of shares of Class A Common Stock no par value and
+Class B Common Stock no par value are 110,000,000 and 350,000,000, respectively.
+The Company announced a two-for-one stock split which was effected in the form
+of a 100% stock dividend on outstanding Class A and Class B Common Stock, paid
+October 23, 1996. In the previous year a similar two-for-one stock split was
+announced, paid October 30, 1995. Each share of Class A Common Stock is
+convertible into one share of Class B Common Stock. Voting rights of Class B
+Common Stock are limited in certain circumstances with respect to the election
+of directors.
+ 
+    The Company's Employee Incentive Compensation Plan (the "1980 Plan") was
+adopted in 1980 and expired on December 31, 1990. The 1980 Plan provided for the
+issuance of up to 13,440,000 shares of the Company's Class B Common Stock in
+connection with the exercise of stock options granted under such plan. No
+further grants will be made under the 1980 Plan.
+ 
+    In 1990, the Board of Directors adopted, and the shareholders approved, the
+NIKE, Inc. 1990 Stock Incentive Plan (the "1990 Plan"). The 1990 Plan provides
+for the issuance of up to 16,000,000 shares of Class B Common Stock in
+connection with stock options and other awards granted under such plan. The 1990
+Plan authorizes the grant of incentive stock options, non-statutory stock
+options, stock appreciation rights, stock bonuses, and the sale of restricted
+stock. The exercise price for incentive stock options may not be less than the
+fair market value of the underlying shares on the date of grant. The exercise
+price for non-statutory stock options and stock appreciation rights, and the
+purchase price of restricted stock, may not be less than 75% of the fair market
+value of the underlying shares on the date of grant. No consideration will be
+paid for stock bonuses awarded under the 1990 Plan. The 1990 Plan is
+administered by a committee of the Board of Directors. The committee has the
+authority to determine the employees to whom awards will be made, the amount of
+the awards, and the other terms and conditions of the awards. As of May 31,
+1997, the committee has granted substantially all non-statutory stock options at
+100% of fair market value on the date of grant under the 1990 Plan.
+ 
+    In addition to the option plans discussed above, the Company has several
+agreements outside of the plans with certain directors, endorsers and employees.
+As of May 31, 1997, 7,754,000 options with exercise prices ranging from $0.417
+per share to $53.625 per share had been granted. The aggregate compensation
+expenses related to these agreements is $9,530,000 and is being amortized over
+vesting periods from October 1980 through September 2000. The outstanding
+agreements expire from December 1998 through September 2006.
+ 
+    During 1995, the Financial Accounting Standards Board issued SFAS 123,
+"Accounting for Stock Based Compensation," which defines a fair value method of
+accounting for an employee stock option or similar equity instrument and
+encouraged, but does not require, all entities to adopt that method of
+accounting. Entities electing not to adopt the fair value method of accounting
+must make pro forma disclosures of net income and earnings per share, as if the
+fair value based method of accounting defined in this statement has been
+applied.
+ 
+    The Company has elected not to adopt the fair value method; however, as
+required by SFAS 123, the Company has computed for pro forma disclosure purposes
+the value of options granted during fiscal years 1997 and 1996 using the
+Black-Scholes option pricing model. The weighted average assumptions used for
+stock option grants for 1997 and 1996 were a dividend yield of 1%, expected
+volatility of the market price of the Company's common stock of 30%, a
+weighted-average expected life of the options of approximately
+ 
+                                       30
+<PAGE>
+                                   NIKE, INC.
+ 
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+ 
+NOTE 8--COMMON STOCK (CONTINUED)
+five years, and interest rates of 6.42 and 6.56 for fiscal 1997 and 5.92 and
+5.97 for fiscal 1996. These interest rates are reflective of option grant dates
+made throughout the year.
+ 
+    Options were assumed to be exercised over the 5 year expected life for
+purposes of this valuation. Adjustments for forfeitures are made as they occur.
+For the years ended May 31, 1997 and 1996, the total value of the options
+granted, for which no previous expense has been recognized, was computed as
+approximately $29,074,000 and $18,167,000, respectively, which would be
+amortized on a straight line basis over the vesting period of the options. The
+weighted average fair value per share of the options granted in 1997 and 1996
+are $17.39 and $7.15, respectively.
+ 
+    If the Company had accounted for these stock options issued to employees in
+accordance with SFAS 123, the Company's net income and pro forma net income and
+net income per share and pro forma net income per share would have been reported
+as follows:
+ 
+<TABLE>
+<CAPTION>
+                                                                   YEAR ENDED MAY 31,
+                                                     ----------------------------------------------
+                                                              1997                    1996
+                                                     ----------------------  ----------------------
+                                                     NET INCOME      EPS     NET INCOME      EPS
+                                                     -----------  ---------  -----------  ---------
+<S>                                                  <C>          <C>        <C>          <C>
+As Reported........................................   $ 795,822   $    2.68   $ 553,190   $    1.88
+Pro Forma..........................................     788,692        2.66     550,426        1.87
+</TABLE>
+ 
+    The pro forma effects of applying SFAS 123 may not be representative of the
+effects on reported net income and earnings per share for future years since
+options vest over several years and additional awards are made each year.
+ 
+    The following summarizes the stock option transactions under plans discussed
+above (adjusted for all applicable stock splits):
+ 
+<TABLE>
+<CAPTION>
+                                                                    WEIGHTED
+                                                                     AVERAGE
+                                                     SHARES       OPTION PRICE
+                                                  -------------  ---------------
+                                                       (IN
+                                                   THOUSANDS)
+<S>                                               <C>            <C>
+Options outstanding May 31, 1995................       11,916       $   10.87
+  Exercised.....................................       (2,281)           7.90
+  Surrendered...................................          (66)          17.07
+  Granted.......................................        2,690           21.25
+                                                       ------          ------
+Options outstanding May 31, 1996................       12,259           13.67
+  Exercised.....................................       (2,012)          11.28
+  Surrendered...................................          (55)          23.50
+  Granted.......................................        1,692           48.93
+                                                       ------          ------
+Options outstanding May 31, 1997................       11,884           19.05
+                                                       ------          ------
+                                                       ------          ------
+Options exercisable at May 31,
+  1996..........................................        4,225            8.35
+  1997..........................................        5,219           11.33
+</TABLE>
+ 
+                                       31
+<PAGE>
+                                   NIKE, INC.
+ 
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+ 
+NOTE 8--COMMON STOCK (CONTINUED)
+    The following table sets forth the exercise prices, the number of options
+outstanding and exercisable, and the remaining contractual lives of the
+Company's stock options at May 31, 1997:
+ 
+<TABLE>
+<CAPTION>
+                   NUMBER OF OPTIONS   WEIGHTED AVERAGE          WEIGHTED AVERAGE           NUMBER OF OPTIONS   WEIGHTED AVERAGE
+ EXERCISE PRICE       OUTSTANDING       EXERCISE PRICE    CONTRACTORS LIFE REMAINING TIME      EXERCISABLE       EXERCISE PRICE
+- -----------------  -----------------   ----------------   -------------------------------   -----------------   ----------------
+                    (IN THOUSANDS)                                                           (IN THOUSANDS)
+<S>                <C>                 <C>                <C>                               <C>                 <C>
+ 
+$ 3.125 - $ 9.563        2,841              $ 7.56                     2.90                       2,841              $ 7.56
+ 11.250 -  14.188        3,027               13.73                     5.76                       1,108               14.00
+ 14.219 -  21.000        4,132               18.40                     7.65                       1,263               17.35
+ 22.813 -  71.875        1,884               46.32                     8.68                           7               32.78
+</TABLE>
+ 
+NOTE 9--BENEFIT PLANS:
+ 
+    The Company has a profit sharing plan available to substantially all
+employees. The terms of the plan call for annual contributions by the Company as
+determined by the Board of Directors. Contributions of $18,500,000, $15,500,000
+and $11,200,000 to the plan are included in other expense in the consolidated
+financial statements for the years ended May 31, 1997, 1996 and 1995,
+respectively.
+ 
+    The Company has a voluntary 401(k) employee savings plan. The Company
+matches with Common Stock a portion of employee contributions, vesting that
+portion over 5 years. Company contributions to the savings plan were $6,349,000,
+$4,660,000 and $3,363,000 for the years ended May 31, 1997, 1996 and 1995,
+respectively.
+ 
+NOTE 10--OTHER INCOME/EXPENSE, NET:
+ 
+    Included in other income/expense for the years ended May 31, 1997, 1996 and
+1995, is interest income of $20,089,000, $16,083,000 and $26,094,000,
+respectively. During the year, the Company's subsidiary, Bauer Inc, recognized a
+one-time restructuring charge of $18,096,000 for a plan which includes, among
+other things, moving certain products to offshore production and the closing of
+certain facilities. The Company recognized $11,412,000 in non-recurring specific
+obligations associated with the shutdown of certain facilities in conjunction
+with the consolidation of European warehouses for the year ended May 31, 1995.
+ 
+NOTE 11--COMMITMENTS AND CONTINGENCIES:
+ 
+    The Company leases space for its offices, warehouses and retail stores under
+leases expiring from one to twenty years after May 31, 1997. Rent expense
+aggregated $84,109,000, $52,483,000 and $43,506,000 for the years ended May 31,
+1997, 1996 and 1995, respectively. Amounts of minimum future annual rental
+commitments under non-cancellable operating leases in each of the five fiscal
+years 1998 through 2002 are $76,319,000, $65,315,000, $53,776,000, $46,125,000,
+$42,274,000, respectively, and $326,198,000 in later years.
+ 
+    Lawsuits arise during the normal course of business. In the opinion of
+management, none of the pending lawsuits will result in a significant impact on
+the consolidated results of operations or financial position.
+ 
+                                       32
+<PAGE>
+                                   NIKE, INC.
+ 
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+ 
+NOTE 12--ACQUISITION OF BAUER INC.:
+ 
+    During the third quarter of fiscal 1995, NIKE acquired all the outstanding
+shares of Bauer Inc. (formerly Canstar Sports Inc.), the world's largest hockey
+equipment manufacturer. The acquisition was accounted for using the purchase
+method of accounting. The cash purchase price, including acquisition costs, was
+approximately $409 million.
+ 
+    Bauer's assets and liabilities have been recorded in the Company's
+consolidated balance sheet at their fair values at the acquisition date.
+Identifiable intangible assets and goodwill relating to the purchase
+approximated $336 million with estimated useful lives ranging from 5 to 40
+years. The amortization period is based on the Company's belief that the
+combined company has substantial potential for achieving long-term appreciation
+of the fully integrated global company. Bauer will permit the continued
+expansion of the current lines of business, as well as the development of new
+businesses, which can be used to strategically exploit the companies' brand
+names and products on an accelerated basis. NIKE believes that the combined
+company will benefit from the acquisition for an indeterminable period of time
+of at least 40 years and that therefore a 40-year amortization period is
+appropriate. The proforma effect of the acquisition on the combined results of
+operations in fiscal 1995 was not significant.
+ 
+NOTE 13--FAIR VALUE OF FINANCIAL INSTRUMENTS:
+ 
+    The carrying amounts reflected in the consolidated balance sheet for cash
+and equivalents and notes payable approximate fair value as reported in the
+balance sheet because of their short maturities. The fair value of long-term
+debt is estimated using discounted cash flow analyses, based on the Company's
+incremental borrowing rates for similar types of borrowing arrangements. The
+fair value of the Company's long-term debt, including current portion, is
+approximately $295,863,000, compared to a carrying value of $298,236,000 at May
+31, 1997 and $16,840,000, compared to a carrying value of $16,885,000 at May 31,
+1996. See Note 14 for fair value of derivatives.
+ 
+NOTE 14--FINANCIAL RISK MANAGEMENT AND DERIVATIVES:
+ 
+    The purpose of the Company's foreign currency hedging activities is to
+protect the Company from the risk that the eventual dollar cash flows resulting
+from the sale and purchase of products in foreign currencies will be adversely
+affected by changes in exchange rates. In addition, the Company seeks to manage
+the impact of foreign currency fluctuations related to the repayment of
+intercompany borrowings. The Company does not hold or issue financial
+instruments for trading purposes. It is the Company's policy to utilize
+derivative financial instruments to reduce foreign exchange risks where internal
+netting strategies cannot be effectively employed. Fluctuations in the value of
+hedging instruments are offset by fluctuations in the value of the underlying
+exposures being hedged.
+ 
+    The Company uses forward exchange contracts and purchased options to hedge
+certain firm purchases and sales commitments and the related receivables and
+payables including other third party or intercompany foreign currency
+transactions. Purchased currency options are used to hedge certain anticipated
+but not yet firmly committed transactions expected to be recognized within one
+year. Cross-currency swaps are used to hedge foreign currency denominated
+payments related to intercompany loan agreements. Hedged transactions are
+denominated primarily in European currencies, Japanese yen and Canadian dollar.
+Premiums paid on purchased options and any realized gains are included in
+prepaid expenses or accrued liabilities and recognized in earnings when the
+transaction being hedged is recognized. Deferred option premiums paid, net of
+realized gains, were $14,500,000 and $5,100,000 at May 31, 1997 and 1996,
+respectively. Gains and losses related to hedges of firmly committed
+transactions and the related
+ 
+                                       33
+<PAGE>
+                                   NIKE, INC.
+ 
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+ 
+NOTE 14--FINANCIAL RISK MANAGEMENT AND DERIVATIVES: (CONTINUED)
+receivables and payables are deferred and are recognized in income or as
+adjustments of carrying amounts when the offsetting gains and losses are
+recognized on the hedged transaction. Net realized and unrealized gains on
+forward contracts deferred at May 31, 1997 and 1996 were $28,000,000 and
+$20,700,000, respectively.
+ 
+    The estimated fair values of derivatives used to hedge the Company's risks
+will fluctuate over time. The fair value of the forward exchange contracts is
+estimated by obtaining quoted market prices. The fair value of option contracts
+is estimated using option pricing models widely used in the financial markets.
+These fair value amounts should not be viewed in isolation, but rather in
+relation to the fair values of the underlying hedged transactions and the
+overall reduction in the Company's exposure to adverse fluctuations in foreign
+exchange rates. The notional amounts of derivatives summarized below do not
+necessarily represent amounts exchanged by the parties and, therefore, are not a
+direct measure of the exposure to the Company through its use of derivatives.
+The amounts exchanged are calculated on the basis of the notional amounts and
+the other terms of the derivatives, which relate to interest rates, exchange
+rates or other financial indices.
+ 
+    The following table presents the aggregate notional principal amounts,
+carrying values and fair values of the Company's derivative financial
+instruments outstanding at May 31, 1997 and 1996.
+ 
+<TABLE>
+<CAPTION>
+                                                                                    MAY 31,
+                                                      --------------------------------------------------------------------
+                                                                    1997                               1996
+                                                      ---------------------------------  ---------------------------------
+                                                      NOTIONAL                           NOTIONAL
+                                                      PRINCIPAL   CARRYING      FAIR     PRINCIPAL   CARRYING      FAIR
+                                                       AMOUNTS     VALUES      VALUES     AMOUNTS     VALUES      VALUES
+                                                      ---------  -----------  ---------  ---------  -----------  ---------
+<S>                                                   <C>        <C>          <C>        <C>        <C>          <C>
+Currency Swaps......................................  $   200.0   $    19.4   $    13.7  $  --       $  --       $  --
+Forward Contracts...................................    2,328.5        14.8        47.4    1,422.8        (2.1)       14.5
+Purchased Options...................................      413.7         9.7         9.4      280.2         2.6          .5
+                                                      ---------       -----   ---------  ---------       -----   ---------
+Total...............................................  $ 2,942.2   $    43.9   $    70.5  $ 1,703.0   $      .5   $    15.0
+                                                      ---------       -----   ---------  ---------       -----   ---------
+                                                      ---------       -----   ---------  ---------       -----   ---------
+</TABLE>
+ 
+    At May 31, 1997 and May 31, 1996, the Company had no contracts outstanding
+with maturities beyond one year except the currency swaps which have maturity
+dates consistent with the maturity dates of the related debt. All realized
+gains/losses deferred at May 31, 1997 will be recognized within one year.
+ 
+    The counterparties to derivative transactions are major financial
+institutions with investment grade or better credit ratings and, additionally,
+counterparties to derivatives three years or greater are all AAA rated. However,
+this does not eliminate the Company's exposure to credit risk with these
+institutions. This credit risk is generally limited to the unrealized gains in
+such contracts should any of these counterparties fail to perform as contracted
+and is immaterial to any one institution at May 31, 1997 and 1996. To manage
+this risk, the Company has established strict counterparty credit guidelines
+which are continually monitored and reported to Senior Management according to
+prescribed guidelines. The Company utilizes a portfolio of financial
+institutions either headquartered or operating in the same countries the Company
+conducts its business. As a result, the Company considers the risk of
+counterparty default to be minimal.
+ 
+NOTE 15--INDUSTRY SEGMENT AND OPERATIONS BY GEOGRAPHIC AREAS:
+ 
+    The Company operates predominantly in one industry segment, that being the
+design, production, marketing and selling of sports and fitness footwear,
+apparel and accessories. During 1997, 1996 and 1995,
+ 
+                                       34
+<PAGE>
+                                   NIKE, INC.
+ 
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+ 
+NOTE 15--INDUSTRY SEGMENT AND OPERATIONS BY GEOGRAPHIC AREAS: (CONTINUED)
+sales to one major customer amounted to approximately 12%, 12% and 14% of total
+sales, respectively. The geographic distributions of the Company's identifiable
+assets, operating income and revenues are summarized in the following table.
+<TABLE>
+<CAPTION>
+                                                                                     YEAR ENDED MAY 31,
+                                                                          ----------------------------------------
+<S>                                                                       <C>           <C>           <C>
+                                                                              1997          1996          1995
+                                                                          ------------  ------------  ------------
+ 
+<CAPTION>
+                                                                                       (IN THOUSANDS)
+<S>                                                                       <C>           <C>           <C>
+Revenues from unrelated entities:
+United States...........................................................  $  5,529,132  $  3,964,662  $  2,997,864
+Europe..................................................................     1,833,722     1,334,340       980,444
+Asia/Pacific............................................................     1,245,217       735,094       515,652
+Latin America/Canada and other..........................................       578,468       436,529       266,874
+                                                                          ------------  ------------  ------------
+                                                                          $  9,186,539  $  6,470,625  $  4,760,834
+                                                                          ------------  ------------  ------------
+                                                                          ------------  ------------  ------------
+Total revenues:
+United States...........................................................  $  5,531,957  $  3,972,815  $  3,004,260
+Europe..................................................................     1,833,722     1,341,738       985,882
+Asia/Pacific............................................................     1,245,217       735,094       515,652
+Latin America/Canada and other..........................................       730,046       503,591       298,323
+Less inter-geographic revenues..........................................      (154,403)      (82,613)      (43,283)
+                                                                          ------------  ------------  ------------
+                                                                          $  9,186,539  $  6,470,625  $  4,760,834
+                                                                          ------------  ------------  ------------
+                                                                          ------------  ------------  ------------
+Operating income:
+United States...........................................................  $    968,993  $    697,094  $    501,685
+Europe..................................................................       170,612       145,722       113,800
+Asia/Pacific............................................................       174,997       123,585        64,168
+Latin America/Canada and other..........................................        71,342        55,851        37,721
+Less corporate, interest and other income (expense) and eliminations....       (90,722)     (123,162)      (67,510)
+                                                                          ------------  ------------  ------------
+                                                                          $  1,295,222  $    899,090  $    649,864
+                                                                          ------------  ------------  ------------
+                                                                          ------------  ------------  ------------
+Assets:
+United States...........................................................  $  2,994,017  $  2,371,991  $  1,659,522
+Europe..................................................................     1,272,918       941,522       771,752
+Asia/Pacific............................................................       665,776       386,485       306,390
+Latin America/Canada and other..........................................       328,681       188,839       209,389
+                                                                          ------------  ------------  ------------
+Total identifiable assets...............................................     5,261,392     3,888,837     2,947,053
+Corporate cash and eliminations.........................................        99,815        62,791       195,692
+                                                                          ------------  ------------  ------------
+    Total assets........................................................  $  5,361,207  $  3,951,628  $  3,142,745
+                                                                          ------------  ------------  ------------
+                                                                          ------------  ------------  ------------
+</TABLE>
+ 
+                                       35
+<PAGE>
+                                    PART III
+ 
+ITEM 9.  CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND
+         FINANCIAL DISCLOSURE.
+ 
+    There has been no change of accountants nor any disagreements with
+accountants on any matter of accounting principles or practices or financial
+statement disclosure required to be reported under this Item.
+ 
+ITEM 10.  DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT
+ 
+    The Company has filed with the Securities and Exchange Commission its
+definitive proxy statement dated August 13, 1997 for the annual meeting of
+shareholders to be held on September 22, 1997. The information required by this
+Item with respect to the Company's directors is incorporated herein by reference
+from pages 3 through 6, and 8 through 10 of such proxy statement. Information
+called for by this Item with respect to the Company's executive officers is set
+forth under "Executive Officers of the Registrant" in Item 1 of this Report.
+ 
+    The information required by Items 11-13 of Part III is incorporated herein
+by reference from the indicated pages of the Company's definitive Proxy
+Statement dated August 13, 1997 for its 1997 annual meeting of shareholders.
+ 
+PROXY
+ 
+<TABLE>
+<CAPTION>
+                                                                                                       STATEMENT
+                                                                                                       PAGE NO.
+                                                                                                      -----------
+<S>        <C>                                                                                        <C>
+ITEM 11.   EXECUTIVE COMPENSATION...................................................................   7-8, 11-21
+ITEM 12.   SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT...........................         8-10
+ITEM 13.   CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS...........................................        19-21
+</TABLE>
+ 
+                                    PART IV
+ 
+<TABLE>
+<S>        <C>                                                                      <C>
+ITEM 14.   EXHIBITS, FINANCIAL STATEMENT SCHEDULES, AND REPORTS ON FORM 8-K.
+</TABLE>
+ 
+    (A) THE FOLLOWING DOCUMENTS ARE FILED AS PART OF THIS REPORT:
+ 
+<TABLE>
+<CAPTION>
+                                                                                               FORM 10-K
+                                                                                               PAGE NO.
+                                                                                              -----------
+<S>                                                                                           <C>
+1.  FINANCIAL STATEMENTS:
+Report of Independent Accountants...........................................................          18
+Consolidated Statement of Income for each of the three years ended May 31, 1996.............          19
+Consolidated Balance Sheet at May 31, 1996 and 1995.........................................          20
+Consolidated Statement of Cash Flows for each of the three years ended May 31, 1996.........          21
+Consolidated Statement of Shareholders' Equity for each of the three years ended May 31,
+  1996......................................................................................          22
+Notes to Consolidated Financial Statements..................................................       23-35
+2.  FINANCIAL STATEMENT SCHEDULES:
+VIII--Valuation and Qualifying Accounts.....................................................         F-1
+IX--Short-Term Borrowings...................................................................         F-2
+</TABLE>
+ 
+    All other schedules are omitted because they are not applicable or the
+required information is shown in the financial statements or notes thereto.
+ 
+                                       36
+<PAGE>
+    3.  EXHIBITS:
+ 
+<TABLE>
+<C>    <S>
+  3.1  Restated Articles of Incorporation, as amended (incorporated by reference
+         from Exhibit 3.1 to the Company's Quarterly Report on Form 10-Q for the
+         fiscal quarter ended August 31, 1995).
+ 
+  3.2  Third Restated Bylaws, as amended (incorporated by reference from Exhibit
+         3.2 to the Company's Quarterly Report on Form 10-Q for the fiscal
+         quarter ended August 31, 1995).
+ 
+  4.1  Restated Articles of Incorporation, as amended (see Exhibit 3.1).
+ 
+  4.2  Third Restated Bylaws, as amended (see Exhibit 3.2).
+ 
+  4.3  Form of Indenture between the Company and The First National Bank of
+         Chicago, as Trustee (incorporated by reference from Exhibit 4.01 to
+         Amendment No. 1 to Registration Statement No. 333-15953 filed by the
+         Company on November 26, 1996.
+ 
+  4.4  Officers' Certificate establishing the terms of the Company's 6 3/8% Notes
+         Due December 1, 2003 (incorporated by reference from Exhibit 4.1 to the
+         Company's Current Report on Form 8-K dated December 10, 1996).
+ 
+  4.5  Form of 6 3/8% Note due December 1, 2003 (incorporated by reference from
+         Exhibit 4.2 to the Company's Current Report on Form 8-K dated December
+         10, 1996).
+ 
+  4.6  Form of Officers' Certificate establishing the terms of the Company's
+         Fixed Rate Medium-Term Note and Floating Rate Medium-Term Note
+         (incorporated by reference from Exhibit 4.1 to the Company's Current
+         Report on Form 8-K dated April 23, 1997).
+ 
+  4.7  Form of Fixed Rate Medium-Term Note (incorporated by reference from
+         Exhibit 4.2 to the Company's Current Report on Form 8-K dated April 23,
+         1997).
+ 
+  4.8  Form of Floating Rate Medium-Term Note (incorporated by reference from
+         Exhibit 4.3 to the Company's Current Report on Form 8-K dated April 23,
+         1997).
+ 
+ 10.1  Credit Agreement dated as of September 15, 1995 among NIKE, Inc., Bank of
+         America National Trust & Savings Association, individually and as Agent,
+         and the other banks party thereto (incorporated by reference from the
+         Company's Quarterly Report on Form 10-Q for the fiscal quarter ended
+         August 31, 1995).
+ 
+ 10.2  Form of non-employee director Stock Option Agreement (incorporated by
+         reference from Exhibit 10.3 to the Company's Annual Report on Form 10-K
+         for the fiscal year ended May 31, 1993).*
+ 
+ 10.3  Form of Indemnity Agreement entered into between the Company and each of
+         its officers and directors (incorporated by reference from the Company's
+         definitive proxy statement filed in connection with its annual meeting
+         of shareholders held on September 21, 1987).
+ 
+ 10.4  NIKE, Inc. Restated Employee Incentive Compensation Plan (incorporated by
+         reference from Registration Statement No. 33-29262 on Form S-8 filed by
+         the Company on June 16, 1989).*
+ 
+ 10.5  NIKE, Inc. 1990 Stock Incentive Plan (incorporated by reference from the
+         Company's definitive proxy statement filed in connection with its annual
+         meeting of shareholders held on September 17, 1990).*
+ 
+ 10.6  Collateral Assignment Split-Dollar Agreement between NIKE, Inc. and Philip
+         H. Knight dated March 10, 1994 (incorporated by reference from Exhibit
+         10.7 to the Company's Annual Report on Form 10-K for he fiscal year
+         ended May 31, 1994).*
+ 
+ 10.7  NIKE, Inc. Executive Performance Sharing Plan (incorporated by reference
+         from the Company's definitive proxy statement filed in connection with
+         its annual meeting of shareholders held on September 18, 1995).*
+</TABLE>
+ 
+                                       37
+<PAGE>
+<TABLE>
+<C>    <S>
+ 12.1  Computation of Ratio of Earnings to Fixed Charges.
+ 
+ 21    Subsidiaries of the Registrant.
+ 
+ 23    Consent of Price Waterhouse, independent certified public accountants (set
+         forth on page F-3 of this Annual Report on Form 10-K).
+</TABLE>
+ 
+- ------------------------
+ 
+*   Management contract or compensatory plan or arrangement.
+ 
+    Upon written request to Investor Relations, NIKE, Inc., One Bowerman Drive,
+Beaverton, Oregon 97005-6453, the Company will furnish share-holders with a copy
+of any Exhibit upon payment of $.10 per page, which represents the Company's
+reasonable expenses in furnishing such Exhibits.
+ 
+    (B) The following reports on Form 8-K were filed by the Company during the
+last quarter of fiscal 1997:
+ 
+<TABLE>
+<S>            <C>                    <C>
+April 23,      Item 5. (Other         Announcement of, and filing of certain
+1997           Events) and Item 7     documents relating to, a public
+               (Exhibits)             offering of the Company's Medium-Term
+                                      Notes.
+</TABLE>
+ 
+                                       38
+<PAGE>
+                                 SCHEDULE VIII
+                       VALUATION AND QUALIFYING ACCOUNTS
+                                 (IN THOUSANDS)
+ 
+<TABLE>
+<CAPTION>
+                                                        BALANCE AT   CHARGED TO   CHARGED TO   WRITE-OFFS   BALANCE AT
+                                                         BEGINNING    COSTS AND      OTHER       NET OF       END OF
+                     DESCRIPTION                         OF PERIOD    EXPENSES     ACCOUNTS    RECOVERIES     PERIOD
+- ------------------------------------------------------  -----------  -----------  -----------  -----------  -----------
+<S>                                                     <C>          <C>          <C>          <C>          <C>
+FOR THE YEAR ENDED MAY 31, 1995:
+Allowance for doubtful accounts.......................   $  28,291    $  12,544    $   3,122    $  11,294    $  32,663
+Other assets..........................................           0                                                   0
+                                                        -----------  -----------  -----------  -----------  -----------
+                                                         $  28,291    $  12,544    $   3,122    $  11,294    $  32,663
+                                                        -----------  -----------  -----------  -----------  -----------
+                                                        -----------  -----------  -----------  -----------  -----------
+FOR THE YEAR ENDED MAY 31, 1996:
+Allowance for doubtful accounts.......................   $  32,663    $  20,527    ($  1,144)   $   8,674    $  43,372
+Other assets..........................................           0                                                   0
+                                                        -----------  -----------  -----------  -----------  -----------
+                                                         $  32,663    $  20,527    ($  1,144)   $   8,674    $  43,372
+                                                        -----------  -----------  -----------  -----------  -----------
+                                                        -----------  -----------  -----------  -----------  -----------
+FOR THE YEAR ENDED MAY 31, 1997:
+Allowance for doubtful accounts.......................   $  43,372    $  25,542    $   1,667    $  13,348    $  57,233
+Other assets..........................................           0                                                   0
+                                                        -----------  -----------  -----------  -----------  -----------
+                                                         $  43,372    $  25,542    $   1,667    $  13,348    $  57,233
+                                                        -----------  -----------  -----------  -----------  -----------
+                                                        -----------  -----------  -----------  -----------  -----------
+</TABLE>
+ 
+                                      F-1
+<PAGE>
+                                  SCHEDULE IX
+ 
+                            SHORT-TERM BORROWINGS(1)
+                                 (IN THOUSANDS)
+ 
+<TABLE>
+<CAPTION>
+                                                                                                        WEIGHTED
+                                                                                                        AVERAGE
+                                                                               MAXIMUM      AVERAGE     INTEREST
+                                                                  WEIGHTED     AMOUNT       AMOUNT        RATE
+                                                     BALANCE AT   AVERAGE    OUTSTANDING  OUTSTANDING    DURING
+                                                       END OF     INTEREST   DURING THE   DURING THE      THE
+                                                       PERIOD       RATE     PERIOD (2)   PERIOD (3)   PERIOD (3)
+                                                     ----------  ----------  -----------  -----------  ----------
+<S>                                                  <C>         <C>         <C>          <C>          <C>
+FOR THE YEAR ENDED MAY 31, 1995:
+Notes payable to banks:
+  U.S. Operations..................................  $  118,609        6.01%  $ 217,212    $  49,277         6.51%
+  Non-U.S. Operations..............................     278,491        5.05     278,491      157,941         5.16
+                                                     ----------              -----------  -----------
+                                                     $  397,100               $ 495,703    $ 207,218
+                                                     ----------              -----------  -----------
+                                                     ----------              -----------  -----------
+Interest bearing accounts payable to NIAC(4).......  $  129,480        6.48%  $ 142,483    $ 118,032         6.05%
+                                                     ----------              -----------  -----------
+                                                     ----------              -----------  -----------
+FOR THE YEAR ENDED MAY 31, 1996:
+Notes payable to banks:
+  U.S. Operations..................................      --          --%      $ 138,479    $  64,554         6.36%
+  Non-U.S. Operations..............................     445,064        4.38     481,344      356,822         3.86
+                                                     ----------              -----------  -----------
+                                                     $  445,064               $ 619,823    $ 421,376
+                                                     ----------              -----------  -----------
+                                                     ----------              -----------  -----------
+Interest bearing accounts payable to NIAC..........  $  237,413        5.80%  $ 237,413    $ 186,161         6.00%
+                                                     ----------              -----------  -----------
+                                                     ----------              -----------  -----------
+FOR THE YEAR ENDED MAY 31, 1997:
+Notes payable to banks:
+  U.S. Operations..................................      --          --%      $ 158,247    $  45,592         5.38%
+  Non-U.S. Operations..............................     553,153        4.08     553,153      436,567         3.61
+                                                     ----------              -----------  -----------
+                                                     $  553,153               $ 711,400    $ 482,159
+                                                     ----------              -----------  -----------
+                                                     ----------              -----------  -----------
+Interest bearing accounts payable to NIAC..........  $  414,132        6.14%  $ 414,132    $ 294,907         5.93%
+                                                     ----------              -----------  -----------
+                                                     ----------              -----------  -----------
+</TABLE>
+ 
+- ------------------------
+ 
+Notes:
+ 
+(1) For information pertaining to the general terms of short-term borrowings,
+    see Note 4 to the Consolidated Financial Statements.
+ 
+(2) Represents the maximum amount of short-term borrowing outstanding at a
+    month-end during the respective period.
+ 
+(3) The average amount outstanding during the period is calculated by dividing
+    the total of principal outstanding at each month-end by 12. The weighted
+    average interest rate during the period is calculated by dividing the
+    interest expense for the year by the average amount outstanding.
+ 
+(4) NIAC refers to Nissho Iwai American Corporation, a subsidiary of Nissho Iwai
+    Corporation, a Japanese trading company.
+ 
+                                      F-2
+<PAGE>
+                       CONSENT OF INDEPENDENT ACCOUNTANTS
+ 
+    We hereby consent to the incorporation by reference in the documents listed
+below, of our report dated June 27, 1997, which appears on Page 18 of this
+Annual Report on Form 10-K:
+ 
+    1.  Prospectus constituting part of the NIKE, Inc. Registration Statement on
+       Form S-8 (No. 2-81419);
+ 
+    2.  Prospectus constituting part of the NIKE, Inc. Registration Statement on
+       Form S-8 (No. 33-29262);
+ 
+    3.  Prospectus constituting part of the NIKE, Inc. Registration Statement on
+       Form S-3 (No. 33-43205);
+ 
+    4.  Prospectus constituting part of the NIKE, Inc. Registration Statement on
+       Form S-3 (No. 33-48977);
+ 
+    5.  Prospectus constituting part of the NIKE, Inc. Registration Statement on
+       Form S-3 (No. 33-41842);
+ 
+    6.  Prospectus constituting part of the NIKE, Inc. Registration Statement on
+       Form S-8 (No. 33-63995); and
+ 
+    7.  Prospectus constituting part of the NIKE, Inc. Registration Statement on
+       Form S-3 (No. 333-15953).
+ 
+                                          Price Waterhouse LLP
+ 
+Portland, Oregon
+August 29, 1997
+ 
+                                      F-3
+<PAGE>
+                                   SIGNATURES
+ 
+    PURSUANT TO THE REQUIREMENTS OF SECTION 13 OR 15(D) OF THE SECURITIES
+EXCHANGE ACT OF 1934, THE REGISTRANT HAS DULY CAUSED THIS REPORT TO BE SIGNED ON
+ITS BEHALF BY THE UNDERSIGNED, THEREUNTO DULY AUTHORIZED.
+ 
+                                                 NIKE, INC.
+ 
+Date:  August 29, 1997                            By:    /s/ PHILIP H. KNIGHT
+ 
+                                                     ---------------------------
+                                                        PHILIP H. KNIGHT,
+                                                    CHAIRMAN OF THE BOARD AND
+                                                     CHIEF EXECUTIVE OFFICER
+ 
+    PURSUANT TO THE REQUIREMENTS OF THE SECURITIES EXCHANGE ACT OF 1934, THIS
+REPORT HAS BEEN SIGNED BELOW BY THE FOLLOWING PERSONS ON BEHALF OF THE
+REGISTRANT AND IN THE CAPACITIES AND ON THE DATES INDICATED.
+ 
+<TABLE>
+<CAPTION>
+          SIGNATURE                       TITLE                    DATE
+- ------------------------------  --------------------------  -------------------
+ 
+<C>                             <S>                         <C>
+PRINCIPAL EXECUTIVE OFFICER
+AND DIRECTOR:
+ 
+     /s/ PHILIP H. KNIGHT       Chairman of the Board and     August 29, 1997
+- ------------------------------    Chief Executive Officer
+       PHILIP H. KNIGHT
+ 
+PRINCIPAL FINANCIAL AND
+ACCOUNTING OFFICER:
+ 
+    /s/ ROBERT S. FALCONE       Vice President and Chief      August 29, 1997
+- ------------------------------    Financial Officer
+      ROBERT S. FALCONE
+ 
+DIRECTORS:
+ 
+   /s/ WILLIAM J. BOWERMAN      Director                      August 29, 1997
+- ------------------------------
+     WILLIAM J. BOWERMAN
+ 
+     /s/ THOMAS E. CLARKE       Director                      August 29, 1997
+- ------------------------------
+       THOMAS E. CLARKE
+ 
+      /s/ JILL K. CONWAY        Director                      August 29, 1997
+- ------------------------------
+        JILL K. CONWAY
+</TABLE>
+ 
+                                      S-1
+<PAGE>
+<TABLE>
+<CAPTION>
+          SIGNATURE                       TITLE                    DATE
+- ------------------------------  --------------------------  -------------------
+ 
+<C>                             <S>                         <C>
+    /s/ RALPH D. DENUNZIO       Director                      August 29, 1997
+- ------------------------------
+      RALPH D. DENUNZIO
+ 
+    /s/ RICHARD K. DONAHUE      Director                      August 29, 1997
+- ------------------------------
+      RICHARD K. DONAHUE
+ 
+     /s/ DELBERT J. HAYES       Director                      August 29, 1997
+- ------------------------------
+       DELBERT J. HAYES
+ 
+    /s/ DOUGLAS G. HOUSER       Director                      August 29, 1997
+- ------------------------------
+      DOUGLAS G. HOUSER
+ 
+      /s/ JOHN E. JAQUA         Director                      August 29, 1997
+- ------------------------------
+        JOHN E. JAQUA
+ 
+      /s/ KENICHI OHMAE         Director                      August 29, 1997
+- ------------------------------
+        KENICHI OHMAE
+ 
+   /s/ CHARLES W. ROBINSON      Director                      August 29, 1997
+- ------------------------------
+     CHARLES W. ROBINSON
+ 
+    /s/ A. MICHAEL SPENCE       Director                      August 29, 1997
+- ------------------------------
+      A. MICHAEL SPENCE
+ 
+  /s/ JOHN R. THOMPSON, JR.     Director                      August 29, 1997
+- ------------------------------
+    JOHN R. THOMPSON, JR.
+</TABLE>
+ 
+                                      S-2
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-12.1
+<SEQUENCE>2
+<DESCRIPTION>EXHIBIT 12.1
+<TEXT>
+
+<PAGE>
+                                                                    EXHIBIT 12.1
+ 
+                                   NIKE, INC.
+               COMPUTATION OF RATIO OF EARNINGS TO FIXED CHARGES
+ 
+<TABLE>
+<CAPTION>
+                                                                                      YEAR ENDED MAY 31,
+                                                                             ------------------------------------
+                                                                                1995        1996         1997
+                                                                             ----------  ----------  ------------
+<S>                                                                          <C>         <C>         <C>
+                                                                                    (DOLLARS IN THOUSANDS)
+Net income.................................................................  $  399,664  $  553,190  $    795,822
+Income taxes...............................................................     250,200     345,900       499,400
+                                                                             ----------  ----------  ------------
+  Income before income taxes...............................................     649,864     899,090     1,295,222
+                                                                             ----------  ----------  ------------
+Add fixed charges
+  Interest expense (A).....................................................      24,469      40,356        55,108
+  Interest component of leases (B).........................................      14,502      17,494        28,036
+                                                                             ----------  ----------  ------------
+Total fixed charges........................................................      38,971      57,850        83,144
+                                                                             ----------  ----------  ------------
+Earnings before income taxes and fixed charges (C).........................  $  688,574  $  956,082  $  1,375,601
+                                                                             ----------  ----------  ------------
+                                                                             ----------  ----------  ------------
+Ratio of earnings to total fixed charges...................................       17.67       16.53         16.54
+                                                                             ----------  ----------  ------------
+                                                                             ----------  ----------  ------------
+</TABLE>
+ 
+- ------------------------
+ 
+(A) Interest expense includes interest both expensed and capitalized.
+ 
+(B) Interest component of leases includes one-third of rental expense, which
+    approximates the interest component of operating leases.
+ 
+(C) Earnings before income taxes and fixed charges is exclusive of capitalized
+    interest.
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-21
+<SEQUENCE>3
+<DESCRIPTION>EXHIBIT 21
+<TEXT>
+
+<PAGE>
+                                                                      EXHIBIT 21
+ 
+SUBSIDIARIES OF THE REGISTRANT.
+ 
+    NIKE, Inc. has 36 wholly-owned subsidiaries, four of which operate in the
+United States, and 32 of which operate in foreign countries. All of the
+subsidiaries, except for Tetra Plastics, Inc., carry on the same line of
+business, namely the design, marketing, distribution and sale of athletic and
+leisure footwear, apparel, accessories, and related equipment. Tetra Plastics,
+Inc., a Missouri corporation, manufactures and sells various types of plastics.
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27
+<SEQUENCE>4
+<DESCRIPTION>EXHIBIT 27 -FDS
+<TEXT>
+
+<TABLE> <S> <C>
+
+<PAGE>
+<ARTICLE> 5
+<LEGEND>
+THIS SCHEDULE CONTAINS SUMMARY FINANCIAL INFORMATION EXTRACTED FROM THE MAY
+31, 1997 FORM 10-K AND IS QUALIFIED IN ITS ENTIRETY BY REFERENCE TO SUCH
+FINANCIAL STATEMENTS.
+</LEGEND>
+<MULTIPLIER> 1,000
+       
+<S>                             <C>
+<PERIOD-TYPE>                   YEAR
+<FISCAL-YEAR-END>                          MAY-31-1997
+<PERIOD-END>                               MAY-31-1997
+<CASH>                                         445,421
+<SECURITIES>                                         0
+<RECEIVABLES>                                1,754,137
+<ALLOWANCES>                                    57,233
+<INVENTORY>                                  1,338,640
+<CURRENT-ASSETS>                             3,830,919
+<PP&E>                                       1,425,747
+<DEPRECIATION>                                 503,378
+<TOTAL-ASSETS>                               5,361,207
+<CURRENT-LIABILITIES>                        1,866,917
+<BONDS>                                        296,020
+<PREFERRED-MANDATORY>                                0
+<PREFERRED>                                        300
+<COMMON>                                         2,858
+<OTHER-SE>                                   3,152,980
+<TOTAL-LIABILITY-AND-EQUITY>                 5,361,207
+<SALES>                                      9,186,539
+<TOTAL-REVENUES>                             9,186,539
+<CGS>                                        5,502,993
+<TOTAL-COSTS>                                5,502,993
+<OTHER-EXPENSES>                             2,310,439
+<LOSS-PROVISION>                                25,542
+<INTEREST-EXPENSE>                              52,343
+<INCOME-PRETAX>                              1,295,222
+<INCOME-TAX>                                   499,400
+<INCOME-CONTINUING>                            795,822
+<DISCONTINUED>                                       0
+<EXTRAORDINARY>                                      0
+<CHANGES>                                            0
+<NET-INCOME>                                   795,822
+<EPS-PRIMARY>                                     2.68
+<EPS-DILUTED>                                     2.68
+        
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

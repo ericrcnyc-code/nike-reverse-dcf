@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Non-SEC source files: downloaded by scripts/00_get_non_sec_files.py, not redistributed
+data/raw/damodaran/
+data/raw/competitors/adidas_*
+data/raw/competitors/puma_*
+
+# Editor, OS and LibreOffice leftovers
+.DS_Store
+.vscode/
+.idea/
+.~lock.*#
+
+# Project working notes
+.notes/
+CLAUDE.md

@@ -1,0 +1,7 @@
+item,value
+Months used,60
+First month,2021-10-31
+Last month,2026-09-30
+"Covariance(Nike, S&P 500)",0.002222
+Variance(S&P 500),0.002035
+Beta = covariance / variance,1.092

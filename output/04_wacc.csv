@@ -1,0 +1,14 @@
+item,value
+Share price (USD),33.87
+"Shares, diluted (millions)",1484.2
+Market value of equity = price x shares (USD m),50269.854
+"Debt, book value excl. leases (USD m)",7893.0
+Risk-free rate (%),5.277
+Beta,1.092
+Equity risk premium (%),4.09
+Cost of equity = risk-free + beta x ERP (%),9.7433
+Pre-tax cost of debt = risk-free + spread (%),6.077
+After-tax cost of debt = pre-tax x (1 - tax rate) (%),4.8008
+Weight of equity = equity / (equity + debt) (%),86.4295
+Weight of debt = debt / (equity + debt) (%),13.5705
+WACC = w_equity x cost of equity + w_debt x after-tax cost of debt (%),9.0726

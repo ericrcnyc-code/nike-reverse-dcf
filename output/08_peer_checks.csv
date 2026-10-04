@@ -1,0 +1,13 @@
+company,factor,metric,base_case,with_factor,change_pct,how_calculated
+Nike,Leases treated as debt,EV / EBITDA (x),11.046,10.185,-7.791,"(EV 49,795 + lease liabilities 3,179) / (EBITDA 4,508 + fixed lease cost 693)"
+adidas,Leases treated as debt,EV / EBITDA (x),10.607,9.109,-14.123,"(EV 27,504 + lease liabilities 2,929) / (EBITDA 2,593 + fixed lease cost 748)"
+Lululemon,Leases treated as debt,EV / EBITDA (x),3.683,3.904,5.994,"(EV 9,277 + lease liabilities 2,141) / (EBITDA 2,518 + fixed lease cost 406)"
+Deckers,Leases treated as debt,EV / EBITDA (x),7.054,6.944,-1.551,"(EV 9,360 + lease liabilities 472) / (EBITDA 1,327 + fixed lease cost 89)"
+On Holding,Leases treated as debt,EV / EBITDA (x),15.711,13.66,-13.055,"(EV 8,910 + lease liabilities 677) / (EBITDA 567 + fixed lease cost 135)"
+Under Armour,Leases treated as debt,EV / EBITDA (x),,21.754,,"(EV 2,230 + lease liabilities 785) / (EBITDA -14 + fixed lease cost 152)"
+adidas,No IFRS lease fix (raw IFRS EBITDA),EV / EBITDA (x),10.607,8.232,-22.389,EV / (operating profit + all D&A); rent is then not counted as a cost
+adidas,Non-controlling interests left out of EV,EV / EBITDA (x),10.607,10.455,-1.436,EV without EUR 395m minority stakes (the first version of this table)
+On Holding,CHF profits at the average 12-month rate,EV / EBITDA (x),15.711,15.005,-4.497,EBITDA x 1.0471 (average 1.2608 / spot 1.2041)
+On Holding,CHF profits at the average 12-month rate,P / E (x),21.72,20.744,-4.497,net income x the same ratio
+Under Armour,Restructuring and impairment charges added back,EV / EBITDA (x),,21.181,,EBITDA -14 + charges 119 = 105
+Under Armour,Restructuring and impairment charges added back,Operating margin (%),-2.428,-0.016,-99.334,same add-back

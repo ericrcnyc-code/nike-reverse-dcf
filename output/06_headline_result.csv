@@ -1,0 +1,22 @@
+item,value
+"share of the way back to normal (0 = FY2026, 1 = normal)",0.4774169921875
+implied revenue growth per year FY2028-31,0.029342595130393213
+implied operating margin by FY2031,0.10261002195923846
+value per share at the pair (USD; = price),33.8709281407222
+value per share at full recovery to FY2017-2024 normal (USD),45.413883618230834
+WACC,0.09072563981662936
+Terminal growth,0.025
+Target operating margin,0.10261002195923846
+Sum of PV of FCFF FY2027-FY2031 (USD m),10736.790869697144
+FY2032 revenue = FY2031 x (1 + terminal growth) (USD m),49119.13745656622
+"FY2032 FCFF, built as a steady-growth year (USD m)",3847.7643310937806
+Terminal value at end of FY2031 (USD m),58542.82045528679
+PV of terminal value (USD m),39059.440676762744
+Terminal value share of enterprise value,0.7843854738349082
+Enterprise value (USD m),49796.23154645989
+Plus cash + short-term investments (USD m),8368.0
+Minus debt excl. leases (USD m),7893.0
+Equity value (USD m),50271.23154645989
+Diluted shares (millions),1484.2
+Value per share (USD),33.8709281407222
+Share price (USD),33.87

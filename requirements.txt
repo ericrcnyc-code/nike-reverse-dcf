@@ -1,0 +1,11 @@
+# Python libraries the scripts use (tested with Python 3.11 on 2026-10-04).
+# System programs are also needed: LibreOffice Calc (script 05) and pdftotext
+# from poppler-utils (script 08). See README.md.
+pandas>=3.0
+numpy>=2.4
+openpyxl>=3.1
+matplotlib>=3.11
+requests>=2.34
+yfinance>=1.7
+beautifulsoup4>=4.15
+lxml>=6.1

@@ -1,0 +1,71 @@
+item,fiscal_year,value_usd_millions,xbrl_tag,form,accession_number,filed,period_end
+Shareholders' equity,2017,12407.0,StockholdersEquity,10-K,0000320187-20-000047,2020-07-24,2017-05-31
+Income tax expense,2017,646.0,IncomeTaxExpenseBenefit,10-K,0000320187-19-000051,2019-07-23,2017-05-31
+Shareholders' equity,2018,9812.0,StockholdersEquity,10-K,0000320187-21-000028,2021-07-20,2018-05-31
+Income tax expense,2018,2392.0,IncomeTaxExpenseBenefit,10-K,0000320187-20-000047,2020-07-24,2018-05-31
+Shareholders' equity,2019,9040.0,StockholdersEquity,10-K,0000320187-22-000038,2022-07-21,2019-05-31
+Income tax expense,2019,772.0,IncomeTaxExpenseBenefit,10-K,0000320187-21-000028,2021-07-20,2019-05-31
+Shareholders' equity,2020,8055.0,StockholdersEquity,10-K,0000320187-23-000039,2023-07-20,2020-05-31
+Income tax expense,2020,348.0,IncomeTaxExpenseBenefit,10-K,0000320187-22-000038,2022-07-21,2020-05-31
+Shareholders' equity,2021,12767.0,StockholdersEquity,10-K,0000320187-24-000044,2024-07-25,2021-05-31
+Income tax expense,2021,934.0,IncomeTaxExpenseBenefit,10-K,0000320187-23-000039,2023-07-20,2021-05-31
+Shareholders' equity,2022,15281.0,StockholdersEquity,10-K,0000320187-25-000047,2025-07-17,2022-05-31
+Income tax expense,2022,605.0,IncomeTaxExpenseBenefit,10-K,0000320187-24-000044,2024-07-25,2022-05-31
+Shareholders' equity,2023,14004.0,StockholdersEquity,10-K,0000320187-26-000088,2026-07-15,2023-05-31
+Income tax expense,2023,1131.0,IncomeTaxExpenseBenefit,10-K,0000320187-25-000047,2025-07-17,2023-05-31
+Shareholders' equity,2024,14430.0,StockholdersEquity,10-K,0000320187-26-000088,2026-07-15,2024-05-31
+Income tax expense,2024,1000.0,IncomeTaxExpenseBenefit,10-K,0000320187-26-000088,2026-07-15,2024-05-31
+Shareholders' equity,2025,13213.0,StockholdersEquity,10-K,0000320187-26-000088,2026-07-15,2025-05-31
+Income tax expense,2025,666.0,IncomeTaxExpenseBenefit,10-K,0000320187-26-000088,2026-07-15,2025-05-31
+Shareholders' equity,2026,14865.0,StockholdersEquity,10-K,0000320187-26-000088,2026-07-15,2026-05-31
+Income tax expense,2026,792.0,IncomeTaxExpenseBenefit,10-K,0000320187-26-000088,2026-07-15,2026-05-31
+"Accounts receivable, net",2017,3677.0,AccountsReceivableNetCurrent,10-K,0000320187-18-000142,2018-07-25,2017-05-31
+Inventories,2017,5055.0,InventoryFinishedGoodsNetOfReserves,10-K,0000320187-18-000142,2018-07-25,2017-05-31
+Prepaid expenses and other current assets,2017,1150.0,PrepaidExpenseAndOtherAssetsCurrent,10-K,0000320187-18-000142,2018-07-25,2017-05-31
+Accounts payable,2017,2048.0,AccountsPayableCurrent,10-K,0000320187-18-000142,2018-07-25,2017-05-31
+Accrued liabilities,2017,3011.0,AccruedLiabilitiesCurrent,10-K,0000320187-18-000142,2018-07-25,2017-05-31
+"Accounts receivable, net",2018,3498.0,AccountsReceivableNetCurrent,10-K,0000320187-19-000051,2019-07-23,2018-05-31
+Inventories,2018,5261.0,InventoryFinishedGoodsNetOfReserves,10-K,0000320187-19-000051,2019-07-23,2018-05-31
+Prepaid expenses and other current assets,2018,1130.0,PrepaidExpenseAndOtherAssetsCurrent,10-K,0000320187-19-000051,2019-07-23,2018-05-31
+Accounts payable,2018,2279.0,AccountsPayableCurrent,10-K,0000320187-19-000051,2019-07-23,2018-05-31
+Accrued liabilities,2018,3269.0,AccruedLiabilitiesCurrent,10-K,0000320187-19-000051,2019-07-23,2018-05-31
+"Accounts receivable, net",2019,4272.0,AccountsReceivableNetCurrent,10-K,0000320187-20-000047,2020-07-24,2019-05-31
+Inventories,2019,5622.0,InventoryFinishedGoodsNetOfReserves,10-K,0000320187-20-000047,2020-07-24,2019-05-31
+Prepaid expenses and other current assets,2019,1968.0,PrepaidExpenseAndOtherAssetsCurrent,10-K,0000320187-20-000047,2020-07-24,2019-05-31
+Accounts payable,2019,2612.0,AccountsPayableCurrent,10-K,0000320187-20-000047,2020-07-24,2019-05-31
+Accrued liabilities,2019,5010.0,AccruedLiabilitiesCurrent,10-K,0000320187-20-000047,2020-07-24,2019-05-31
+"Accounts receivable, net",2020,2749.0,AccountsReceivableNetCurrent,10-K,0000320187-21-000028,2021-07-20,2020-05-31
+Inventories,2020,7367.0,InventoryFinishedGoodsNetOfReserves,10-K,0000320187-21-000028,2021-07-20,2020-05-31
+Prepaid expenses and other current assets,2020,1653.0,PrepaidExpenseAndOtherAssetsCurrent,10-K,0000320187-21-000028,2021-07-20,2020-05-31
+Accounts payable,2020,2248.0,AccountsPayableCurrent,10-K,0000320187-21-000028,2021-07-20,2020-05-31
+Accrued liabilities,2020,5184.0,AccruedLiabilitiesCurrent,10-K,0000320187-21-000028,2021-07-20,2020-05-31
+"Accounts receivable, net",2021,4463.0,AccountsReceivableNetCurrent,10-K,0000320187-22-000038,2022-07-21,2021-05-31
+Inventories,2021,6854.0,InventoryFinishedGoodsNetOfReserves,10-K,0000320187-22-000038,2022-07-21,2021-05-31
+Prepaid expenses and other current assets,2021,1498.0,PrepaidExpenseAndOtherAssetsCurrent,10-K,0000320187-22-000038,2022-07-21,2021-05-31
+Accounts payable,2021,2836.0,AccountsPayableCurrent,10-K,0000320187-22-000038,2022-07-21,2021-05-31
+Accrued liabilities,2021,6063.0,AccruedLiabilitiesCurrent,10-K,0000320187-22-000038,2022-07-21,2021-05-31
+"Accounts receivable, net",2022,4667.0,AccountsReceivableNetCurrent,10-K,0000320187-23-000039,2023-07-20,2022-05-31
+Inventories,2022,8420.0,InventoryFinishedGoodsNetOfReserves,10-K,0000320187-23-000039,2023-07-20,2022-05-31
+Prepaid expenses and other current assets,2022,2129.0,PrepaidExpenseAndOtherAssetsCurrent,10-K,0000320187-23-000039,2023-07-20,2022-05-31
+Accounts payable,2022,3358.0,AccountsPayableCurrent,10-K,0000320187-23-000039,2023-07-20,2022-05-31
+Accrued liabilities,2022,6220.0,AccruedLiabilitiesCurrent,10-K,0000320187-23-000039,2023-07-20,2022-05-31
+"Accounts receivable, net",2023,4131.0,AccountsReceivableNetCurrent,10-K,0000320187-24-000044,2024-07-25,2023-05-31
+Inventories,2023,8454.0,InventoryFinishedGoodsNetOfReserves,10-K,0000320187-25-000047,2025-07-17,2023-05-31
+Prepaid expenses and other current assets,2023,1942.0,PrepaidExpenseAndOtherAssetsCurrent,10-K,0000320187-24-000044,2024-07-25,2023-05-31
+Accounts payable,2023,2862.0,AccountsPayableCurrent,10-K,0000320187-24-000044,2024-07-25,2023-05-31
+Accrued liabilities,2023,5723.0,AccruedLiabilitiesCurrent,10-K,0000320187-24-000044,2024-07-25,2023-05-31
+"Accounts receivable, net",2024,4427.0,AccountsReceivableNetCurrent,10-K,0000320187-25-000047,2025-07-17,2024-05-31
+Inventories,2024,7519.0,InventoryFinishedGoodsNetOfReserves,10-K,0000320187-26-000088,2026-07-15,2024-05-31
+Prepaid expenses and other current assets,2024,1854.0,PrepaidExpenseAndOtherAssetsCurrent,10-K,0000320187-25-000047,2025-07-17,2024-05-31
+Accounts payable,2024,2851.0,AccountsPayableCurrent,10-K,0000320187-25-000047,2025-07-17,2024-05-31
+Accrued liabilities,2024,5725.0,AccruedLiabilitiesCurrent,10-K,0000320187-25-000047,2025-07-17,2024-05-31
+"Accounts receivable, net",2025,4717.0,AccountsReceivableNetCurrent,10-K,0000320187-26-000088,2026-07-15,2025-05-31
+Inventories,2025,7489.0,InventoryFinishedGoodsNetOfReserves,10-K,0000320187-26-000088,2026-07-15,2025-05-31
+Prepaid expenses and other current assets,2025,2005.0,PrepaidExpenseAndOtherAssetsCurrent,10-K,0000320187-26-000088,2026-07-15,2025-05-31
+Accounts payable,2025,3479.0,AccountsPayableCurrent,10-K,0000320187-26-000088,2026-07-15,2025-05-31
+Accrued liabilities,2025,5916.0,AccruedLiabilitiesCurrent,10-K,0000320187-26-000088,2026-07-15,2025-05-31
+"Accounts receivable, net",2026,5931.0,AccountsReceivableNetCurrent,10-K,0000320187-26-000088,2026-07-15,2026-05-31
+Inventories,2026,7501.0,InventoryFinishedGoodsNetOfReserves,10-K,0000320187-26-000088,2026-07-15,2026-05-31
+Prepaid expenses and other current assets,2026,2144.0,PrepaidExpenseAndOtherAssetsCurrent,10-K,0000320187-26-000088,2026-07-15,2026-05-31
+Accounts payable,2026,3600.0,AccountsPayableCurrent,10-K,0000320187-26-000088,2026-07-15,2026-05-31
+Accrued liabilities,2026,6092.0,AccruedLiabilitiesCurrent,10-K,0000320187-26-000088,2026-07-15,2026-05-31

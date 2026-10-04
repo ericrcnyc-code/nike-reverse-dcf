@@ -1,0 +1,11 @@
+method,multiple_x,nike_profit_usd_m,equity_value_usd_m,value_per_share_usd,vs_price_pct,how_calculated
+Peer median EV/EBITDA,8.83,4508.0,40282.344,27.141,-19.868,"multiple x Nike TTM EBITDA - debt + cash, / diluted shares"
+Peer min EV/EBITDA,3.683,4508.0,17080.164,11.508,-66.023,"multiple x Nike TTM EBITDA - debt + cash, / diluted shares"
+Peer max EV/EBITDA,15.711,4508.0,71301.499,48.04,41.837,"multiple x Nike TTM EBITDA - debt + cash, / diluted shares"
+Peer median P/E,14.532,3093.0,44947.213,30.284,-10.588,"multiple x Nike TTM net income, / diluted shares"
+Peer min P/E,7.522,3093.0,23266.213,15.676,-53.717,"multiple x Nike TTM net income, / diluted shares"
+Peer max P/E,21.72,3093.0,67181.162,45.264,33.641,"multiple x Nike TTM net income, / diluted shares"
+Peer median EV/EBITDAR (leases as debt),9.109,5201.0,44671.53,30.098,-11.137,"multiple x Nike EBITDAR - debt - lease liabilities + cash, / shares"
+DCF base case (output/05_valuation.csv),13.779,4508.0,62592.796,42.173,24.514,EV/EBITDA the DCF value implies on Nike's TTM EBITDA
+"DCF base case, as P/E",20.237,3093.0,62592.796,42.173,24.514,P/E the DCF value implies on Nike's TTM net income
+Share price 2026-10-02,11.046,4508.0,50269.854,33.87,0.0,Nike's actual EV/EBITDA

@@ -1,0 +1,10 @@
+check,what_changes,wacc_pct,value_per_share_usd,implied_fy2031_margin_at_base_growth_pct,change_vs_base_usd,value_vs_price_pct
+Base case,nothing,9.073,42.173,10.0,0.0,24.514
+ERP start of 2026,equity risk premium 4.09% -> 4.23% (Damodaran 2026-01-01),9.205,41.298,10.213,-0.875,21.931
+ERP high,equity risk premium 4.09% -> 5.00%,9.931,37.047,11.4,-5.126,9.379
+Risk-free 31 Aug,risk-free 5.28% -> 4.76%,8.568,45.864,9.199,3.691,35.412
+Tax 21%,tax on operating income 18% -> 21%,9.073,40.558,10.41,-1.615,19.745
+Working capital stays high,working capital 11.5% -> 12.7% of revenue,9.073,41.786,10.117,-0.387,23.37
+Terminal growth 2%,terminal growth 2.5% -> 2.0%,9.073,39.827,10.583,-2.346,17.588
+Leases as debt,"+USD 3,179m lease debt (10-Q accn 0000320187-26-000193); margin +0.25% (lease interest 114m at 3.60%)",8.851,42.547,9.986,0.375,25.62
+All value-lowering checks together,"ERP start of 2026, ERP high, Tax 21%, Working capital stays high, Terminal growth 2%",9.931,33.576,12.612,-8.597,-0.868

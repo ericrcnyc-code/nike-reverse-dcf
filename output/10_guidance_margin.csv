@@ -1,0 +1,4 @@
+Case,Adjusted EPS (USD),Diluted shares (millions),Net income = EPS x shares (USD m),Pre-tax income = net income / (1 - tax) (USD m),Operating income = pre-tax - non-operating (USD m),Revenue growth,Revenue = FY2026 x (1 + growth) (USD m),Operating margin = operating income / revenue,P/E at share price on adjusted EPS
+Low,1.15,1484.2,1706.83,2275.773333333333,2172.773333333333,-0.09,42222.18,0.05146047251310409,29.452173913043477
+Mid,1.25,1484.2,1855.25,2473.6666666666665,2370.6666666666665,-0.08,42686.16,0.05553712647534157,27.095999999999997
+High,1.35,1484.2,2003.6700000000003,2671.5600000000004,2568.5600000000004,-0.07,43150.14,0.05952611045989655,25.088888888888885

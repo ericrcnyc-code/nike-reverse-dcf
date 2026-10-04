@@ -1,0 +1,19 @@
+item,value
+WACC,0.0907
+Terminal growth,0.025
+Target operating margin,0.125
+Sum of PV of FCFF FY2027-FY2031 (USD m),11639.5079
+FY2032 revenue = FY2031 x (1 + terminal growth) (USD m),38871.3582
+"FY2032 FCFF, built as a steady-growth year (USD m)",3758.6707
+Terminal value at end of FY2031 (USD m),57187.2823
+PV of terminal value (USD m),38155.0333
+Terminal value share of enterprise value,0.7662
+Enterprise value (USD m),49794.5411
+Plus cash + short-term investments (USD m),8368.0
+Minus debt excl. leases (USD m),7893.0
+Equity value (USD m),50269.5411
+Diluted shares (millions),1484.2
+Value per share (USD),33.8698
+Share price (USD),33.87
+Revenue growth every year FY2028-FY2031 (FY2027 at guidance),-0.0291
+"Check: value per share - price (USD, should be ~0)",-0.0002

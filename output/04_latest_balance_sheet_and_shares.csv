@@ -1,0 +1,9 @@
+item,value,xbrl_tag,form,accession_number,filed,period_end,note
+Cash and equivalents (USD m),6903.0,CashAndCashEquivalentsAtCarryingValue,10-Q,0000320187-26-000193,2026-10-02,2026-08-31,
+Short-term investments (USD m),1465.0,DebtSecuritiesAvailableForSaleExcludingAccruedInterestCurrent,10-Q,0000320187-26-000193,2026-10-02,2026-08-31,
+"Long-term debt, non-current (USD m)",5893.0,LongTermDebtNoncurrent,10-Q,0000320187-26-000193,2026-10-02,2026-08-31,
+Current portion of long-term debt (USD m),2000.0,LongTermDebtCurrent,10-Q,0000320187-26-000193,2026-10-02,2026-08-31,
+Notes payable / short-term borrowings (USD m),0.0,ShortTermBorrowings,,,,,no value at 2026-08-31; treated as 0
+"Diluted weighted-average shares, latest quarter (millions)",1484.2,WeightedAverageNumberOfDilutedSharesOutstanding,10-Q,0000320187-26-000193,2026-10-02,2026-08-31,
+"Total debt, excl. leases (USD m)",7893.0,,,,,,sum of the three debt lines
+Cash + short-term investments (USD m),8368.0,,,,,,sum of the two lines

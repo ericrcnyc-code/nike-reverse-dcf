@@ -1,0 +1,38 @@
+Item,col1,col2,col3,col4,col5
+Fiscal year end,2027-05-31 00:00:00,2028-05-31 00:00:00,2029-05-31 00:00:00,2030-05-31 00:00:00,2031-05-31 00:00:00
+Years from valuation date,0.659822039698837,1.66187542778919,2.6611909650924,3.66050650239562,4.65982203969884
+Share of the year's cash flow counted,0.75,1,1,1,1
+FCFF (from Forecast),2789.6802616,2348.175265986,3044.48603702496,3843.79723668146,4702.18215465124
+FCFF counted,2092.2601962,2348.175265986,3044.48603702496,3843.79723668146,4702.18215465124
+Discount factor,0.944309735581022,0.86560847584462,0.79365506626631,0.727682759339395,0.667194377944178
+Present value of FCFF,1975.74167264032,2032.60041300618,2416.2717674619,2797.06497952951,3137.26949765275
+Part 2: from enterprise value to value per share,Value,How it is calculated,,,
+"Sum of present values, FY2027-FY2031 (USD m)",12358.9483302906,Add up Part 1's last row,,,
+WACC,0.0907256398166294,From the WACC tab,,,
+Terminal growth,0.025,From Assumptions,,,
+FY2032 revenue (USD m),50693.0236332749,FY2031 revenue x (1 + terminal growth),,,
+FY2032 FCFF (first year after the forecast) (USD m),4901.76810229557,FY2032 revenue x (FY2031 margin x (1 - tax) + D&A % - capex %) - working capital % x revenue increase: a steady year growing at the terminal rate,,,
+Terminal value at end of FY2031 (USD m),74579.2375086985,FY2032 FCFF / (WACC - terminal growth): value of all cash flows after FY2031 (growing-perpetuity formula),,,
+Present value of terminal value (USD m),49758.8479771672,Terminal value x FY2031 discount factor,,,
+Enterprise value (USD m),62117.7963074578,Value of the business to all investors (debt + equity),,,
+Plus: cash and short-term investments (USD m),8368,"From Assumptions (10-Q, 2026-08-31)",,,
+"Less: debt, excl. leases (USD m)",7893,From the WACC tab,,,
+Equity value (USD m),62592.7963074578,Enterprise value + cash - debt: what belongs to shareholders,,,
+Diluted shares (millions),1484.2,From Assumptions,,,
+Value per share (USD),42.1727505103475,Equity value / shares,,,
+Share price on valuation date (USD),33.87,From Assumptions,,,
+Value vs price,0.245135828472026,Positive = the model says the shares are worth more than the price,,,
+Terminal value as % of enterprise value,0.801040135597875,How much of the value comes from after FY2031 (high = more depends on the long run),,,
+Implied EV / FY2026 operating income,16.3597040577977,A sanity check multiple,,,
+Part 3: value per share (USD) for other discount rates and terminal growth rates,,,,,
+Terminal growth (down) / WACC (across),0.0807256398166294,0.0857256398166294,0.0907256398166294,0.0957256398166294,0.100725639816629
+0.015,43.9246564372685,40.6389200247834,37.7909978780917,35.2994493293972,33.1018364220719
+0.02,46.7810234587499,43.0373401031089,39.8269886165276,37.0442351339659,34.6095440634097
+0.025,50.1499672816606,45.8307202157078,42.1727505103475,39.0357187144886,36.3163530454544
+0.03,54.1830611941689,49.1253740905803,44.9048009473435,41.3302017920232,38.2644902058614
+0.035,59.098175331803,53.0695326117782,48.1271194989787,44.0025290692177,40.5090318084072
+The centre cell equals the value per share above. Each cell repeats Part 1 and Part 2 with that row's growth and that column's WACC.,,,,,
+Part 4: comparison with the reverse DCF (output/04_reverse_dcf_results.md),,,,,
+The reverse DCFs (scripts 04 and 06) run this same model backwards: they fix the value at the share price and solve for the growth and margin it implies (output/06_implied_growth_and_margin_results.md).,,,,,
+"To do the same here, use Excel's Goal Seek: Data > What-If Analysis > Goal Seek, set cell 'Value_Per_Share' to the share price by changing 'Growth_Adjustment' on Assumptions.",,,,,
+Python copy of this model: scripts/dcf_model.py. Script 06 checks the two give the same value to the cent.,,,,,
