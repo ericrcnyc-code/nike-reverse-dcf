@@ -85,8 +85,8 @@ You need Python 3.11 or newer, plus two system programs: **LibreOffice Calc** (s
 Excel formulas) and **pdftotext** (script 08 uses it to read the adidas half-year PDFs).
 
 ```bash
-git clone <this repository's URL>
-cd <repository folder>
+git clone https://github.com/ericrcnyc-code/nike-reverse-dcf.git
+cd nike-reverse-dcf
 
 python3 -m venv .venv
 source .venv/bin/activate          # on Windows: .venv\Scripts\activate
